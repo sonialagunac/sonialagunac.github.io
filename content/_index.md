@@ -35,7 +35,7 @@ sections:
       title: '🗞️ News'
       subtitle: ''
       text: |-
-        KDFOKGDF
+        put the recent news and then the extended in another section
     design:
       columns: '1'
   - block: collection

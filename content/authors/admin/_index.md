@@ -24,8 +24,9 @@ role: PhD Student in Machine Learning
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: ETH Zurich Institute of Machine Learning
+  - name: ETH Zurich, Institute of Machine Learning
     url: https://ml.inf.ethz.ch
+  - name: Previously @Cambridge @Google @Harvard
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,8 +34,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:sonia.lagunacillero@inf.ethz.ch'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/sonialagunac
+  # - icon: brands/x
+  #   url: https://twitter.com/sonialagunac
   - icon: brands/github
     url: https://github.com/sonialagunac
   - icon: brands/linkedin
@@ -44,8 +45,9 @@ profiles:
 
 interests:
   - Interpretability
-  - Generative and Foundation Models
-
+  - Generative Models
+  - Foundation Models
+  - Representation Learning
 
 # education:
 #   - area: PhD Machine Learning
