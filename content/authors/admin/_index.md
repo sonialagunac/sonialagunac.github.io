@@ -25,7 +25,7 @@ role: PhD Student in Machine Learning
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: ETH Zurich Institute of Machine Learning
-    url: https://ml.inf.ethz.ch//
+    url: https://ml.inf.ethz.ch
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -179,4 +179,9 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi there!👋 I am a Phd student at ETH .....
+
+CSNOW
+Prior to my PhD, lucky to have caixa and rafael del pino
+
+Always happy to collaborate and discuss new topics, feel free to reach out!😃
