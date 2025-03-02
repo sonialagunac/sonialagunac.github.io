@@ -34,7 +34,7 @@ sections:
     id: more-news
     content:
       title: ""
-      text:
+      # text:
       button:
         text: "See More News >>"
         url: news  # This should match the slug of your full news page
