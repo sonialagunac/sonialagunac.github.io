@@ -35,7 +35,11 @@ sections:
     content:
       title: '🗞️ Recent News'
       # Note: `username` refers to the user's folder name in `content/authors/`
-      username: admin 
+      username: admin
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]   # Removes internal padding
+        margin: [0, 0, 0, 0]    # Removes external margin 
   - block: cta-card
     id: more-news
     content:
@@ -46,7 +50,7 @@ sections:
         url: news  # This should match the slug of your full news page
     design:
       card:
-        css_class: "bg-dark no-margin"
+        css_class: "bg-dark"
       button:
         style: "background-color: #444; color: white; border-radius: 6px; padding: 5px 10px;"
         hover_style: "background-color: #555; color: white;"
