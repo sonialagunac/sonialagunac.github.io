@@ -33,7 +33,7 @@ sections:
   - block: cta-card
     id: more-news
     content:
-      title: ""
+      title: '🗞️ Recent News'
       # text:
       button:
         text: "See More News >>"
@@ -51,7 +51,7 @@ sections:
   - block: resume-awards
     id: news
     content:
-      title: '🗞️ Recent News'
+      title: #'🗞️ Recent News'
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
     design:
