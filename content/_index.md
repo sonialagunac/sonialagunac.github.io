@@ -39,15 +39,16 @@ sections:
   - block: cta-card
     id: more-news
     content:
-      # title: "More News >>>"
-      # text: "Check out all the latest updates and announcements."
+      title: 
+      text:
       button:
         text: "See More Newss >>"
         url: news  # This should match the slug of your full news page
     design:
       card:
-        css_class: "bg-primary-700"
-        css_style: ""
+        css_class: "bg-dark"
+      spacing:
+        padding: [0, 0, 0, 0]  # Removes unnecessary spacing
 
 
 
