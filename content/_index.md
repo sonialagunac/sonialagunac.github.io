@@ -34,7 +34,7 @@ sections:
     id: spacing
     content:
       title: ""
-      text: ""
+      # text: ""
     design:
       spacing:
         padding: [0, 0, 0, 0]  # Adds 10px vertical space above resume-awards
