@@ -1,7 +1,7 @@
 ---
 title: "🗞️ All News"
 date: 2022-10-24
-type: page
+type: section
 
 sections:
   - block: resume-awards
