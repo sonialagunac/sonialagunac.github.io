@@ -39,8 +39,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]  # Adds 10px vertical space above resume-awards
         margin: [0, 0, 0, 0]
-      design:
-        card:
+      card:
           css_class: "bg-dark" 
 
   - block: resume-awards
