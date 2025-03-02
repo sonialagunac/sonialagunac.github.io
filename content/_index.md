@@ -37,8 +37,11 @@ sections:
       text: ""
     design:
       spacing:
-        padding: [10, 0, 0, 0]  # Adds 10px vertical space above resume-awards
-        margin: [0, 0, 0, 0] 
+        padding: [0, 0, 0, 0]  # Adds 10px vertical space above resume-awards
+        margin: [0, 0, 0, 0]
+      design:
+        card:
+          css_class: "bg-dark" 
 
   - block: resume-awards
     id: news
