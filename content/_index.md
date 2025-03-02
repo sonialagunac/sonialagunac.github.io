@@ -33,8 +33,8 @@ sections:
   - block: cta-card
     id: blank 
     content:
-      title: 
-      text:
+      title: ll
+      text: 
     design:
       card:
         css_class: "bg-dark"
