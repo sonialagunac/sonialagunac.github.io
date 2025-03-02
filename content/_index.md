@@ -38,7 +38,7 @@ sections:
       username: admin
     design:
       spacing:
-        padding: [unset, 0, 0, 0]   # Removes internal padding
+        padding: [inherit, 0, 0, 0]   # Removes internal padding
         margin: [0, 0, 0, 0]    # Removes external margin 
   - block: cta-card
     id: more-news
