@@ -35,7 +35,11 @@ sections:
     content:
       title: '🗞️ Recent News'
       # Note: `username` refers to the user's folder name in `content/authors/`
-      username: admin  
+      username: admin
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]  
+        margin: [0, 0, 0, 0]    
   - block: cta-card
     id: more-news
     content:
@@ -52,7 +56,9 @@ sections:
         hover_style: "background-color: #555; color: white;"
 
       spacing:
-        padding: [0, 0, 0, 0]  # Removes unnecessary spacing
+        padding: [0, 0, 0, 0]  
+        margin: [0, 0, 0, 0]   # Removes all extra margin
+        # Removes unnecessary spacing
 
 
 
