@@ -38,7 +38,7 @@ sections:
       username: admin
     design:
       spacing:
-        padding: [inherit, 0, 0, 0]   # Removes internal padding
+        padding: [inherit, inherit, 0, inherit]   # Removes internal padding
         margin: [0, 0, 0, 0]    # Removes external margin 
   - block: cta-card
     id: more-news
@@ -99,6 +99,9 @@ sections:
     design:
       view: article-grid
       columns: 2
+      spacing:
+        padding: [0, inherit, inherit, 0]  # Remove internal padding inside the block
+        margin: [0, 0, 0, 0]  # Reduce top margin to 20px, remove others
   # - block: collection
   #   content:
   #     title: Recent Publications
