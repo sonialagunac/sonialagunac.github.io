@@ -33,13 +33,13 @@ sections:
   - block: collection
     id: news
     content:
-      title: '🗞️ News'
-      subtitle: ''
+      title: '🗞️ Recent News'
+      # subtitle: '[All news>>](/news)'
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: news
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       # filters:
       #   author: ""
