@@ -36,7 +36,7 @@ sections:
       title: '🗞️ Recent News'
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin  
-  - block: announcement
+  - block: cta-card
     id: more-news
     content:
       title: "More News >>>"
@@ -45,10 +45,10 @@ sections:
         text: "See All News"
         url: news  # This should match the slug of your full news page
     design:
-      background:
-        color: transparent
-      spacing:
-        padding: [1rem, 0, 1rem, 0]
+      card:
+        css_class: "bg-primary-700"
+        css_style: ""
+
 
 
   # - block: collection
