@@ -39,7 +39,7 @@ sections:
     design:
       spacing:
         padding: [0, 0, 0, 0]   # Removes internal padding
-        margin: [0, 0, 0, 0]    # Removes external margin 
+        margin: [auto, 0, 0, 0]    # Removes external margin 
   - block: cta-card
     id: more-news
     content:
