@@ -43,9 +43,9 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]   # Removes internal padding
         margin: [0, 0, 0, 0]    # Removes external margin
-      cta:
-        style: "background-color: #444; color: white; border-radius: 6px; padding: 5px 10px;"
-        hover_style: "background-color: #555; color: white;" 
+      # cta:
+      #   style: "background-color: #444; color: white; border-radius: 6px; padding: 5px 10px;"
+      #   hover_style: "background-color: #555; color: white;" 
   - block: cta-card
     id: more-news
     content:
