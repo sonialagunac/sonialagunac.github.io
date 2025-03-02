@@ -42,11 +42,15 @@ sections:
       title: 
       text:
       button:
-        text: "See More Newss >>"
+        text: "See More News >>"
         url: news  # This should match the slug of your full news page
     design:
       card:
         css_class: "bg-dark"
+      button:
+        style: "background-color: #444; color: white; border-radius: 6px; padding: 10px 20px;"
+        hover_style: "background-color: #555; color: white;"
+
       spacing:
         padding: [0, 0, 0, 0]  # Removes unnecessary spacing
 
