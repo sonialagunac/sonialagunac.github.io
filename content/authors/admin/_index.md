@@ -161,14 +161,12 @@ awards:
     # icon: award
     # summary: |
     #   Starting a visiting reasearch stay in Cambridge! 
-  - title: ""  
+    # icon: award
+  - title:
     url: https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html
     date: '2022-05-01'
-    awarder: 'Starting a visiting research stay in {{< hyperlink url="https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html" text="Cambridge" >}}! 🚀'
+    awarder: 'Starting a visiting research stay in <a href="https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html" target="_blank">Cambridge</a>! 🚀'
 
-    # icon: award
-    # summary: |
-    #   Starting a visiting reasearch stay in Cambridge! 
   # - title: ""
   #   url: https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html
   #   date: '2022-05-01'
