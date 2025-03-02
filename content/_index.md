@@ -53,11 +53,8 @@ sections:
 
       spacing:
         padding: [0, 0, 0, 0]  
-        margin: [0, 0, 0, 0]   # Removes all extra margin
+        margin: [-20, 0, 0, 0]   # Removes all extra margin
         # Removes unnecessary spacing
-
-
-
   # - block: collection
   #   id: news
   #   content:
