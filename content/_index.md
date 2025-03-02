@@ -34,7 +34,7 @@ sections:
     id: news
     content:
       title: '🗞️ Recent News'
-      text: '[All news >>](/news)'
+      text: '<a href="/news" style="color: blue; text-decoration: underline;">See all news >></a>'
       # description: '[All news >>](/news)'
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
@@ -42,24 +42,24 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]   # Removes internal padding
         margin: [0, 0, 0, 0]    # Removes external margin
-  - block: cta-card
-    id: more-news
-    content:
-      title: 
-      text:
-      button:
-        text: "See More News >>"
-        url: news  # This should match the slug of your full news page
-    design:
-      card:
-        css_class: "bg-dark"
-        # css_style: "height: 20px; min-height: 20px; line-height: 20px;"
-      button:
-        style: "background-color: #444; color: white; border-radius: 6px; padding: 5px 10px;"
-        hover_style: "background-color: #555; color: white;"
-      spacing:
-        padding: [0, 0, 0, 0]  
-        margin: [0, 0, 0, 0]   # Removes all extra margin
+  # - block: cta-card
+  #   id: more-news
+  #   content:
+  #     title: 
+  #     text:
+  #     button:
+  #       text: "See More News >>"
+  #       url: news  # This should match the slug of your full news page
+  #   design:
+  #     card:
+  #       css_class: "bg-dark"
+  #       # css_style: "height: 20px; min-height: 20px; line-height: 20px;"
+  #     button:
+  #       style: "background-color: #444; color: white; border-radius: 6px; padding: 5px 10px;"
+  #       hover_style: "background-color: #555; color: white;"
+  #     spacing:
+  #       padding: [0, 0, 0, 0]  
+  #       margin: [0, 0, 0, 0]   # Removes all extra margin
         # Removes unnecessary spacing
   # - block: collection
   #   id: news
