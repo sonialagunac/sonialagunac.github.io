@@ -41,11 +41,11 @@ sections:
   #     spacing:
   #       padding: [0, 0, 0, 0]  
   #       margin: [0, 0, 0, 0] 
-  
+
   - block: cta-card
     id: more-news
     content:
-      title: 
+      title: ffdf
       text:
       button:
         text: "See More News >>"
