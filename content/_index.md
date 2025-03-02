@@ -46,7 +46,7 @@ sections:
         url: news  # This should match the slug of your full news page
     design:
       card:
-        css_class: "bg-dark"
+        css_class: "bg-dark text-white"
       spacing:
         padding: [0, 0, 0, 0]  # Removes unnecessary spacing
 
