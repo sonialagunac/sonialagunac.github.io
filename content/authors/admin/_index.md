@@ -158,12 +158,21 @@ awards:
   - title: 
     url: 
     date: '2025-02-01'
-    awarder: Started a reasearch stay in University of Cambridge with Mihaela Van der Schaar. Excited for the months ahead!
+    awarder: Started a reasearch stay at University of Cambridge with Mihaela Van der Schaar. Excited for the months ahead!
 
   - title: 
     url: 
     date: '2024-07-01'
     awarder: Joined Google as a Research Intern and got later extended into a Student Researcher working on 3D diffusion-based generative models. 
+  - title: Started a reasearch stay at University of Cambridge with Mihaela Van der Schaar. Excited for the months ahead!
+    url: 
+    date: '2025-02-01'
+    awarder: 
+
+  - title: Joined Google as a Research Intern and got later extended into a Student Researcher working on 3D diffusion-based generative models. 
+    url: 
+    date: '2024-07-01'
+    awarder: 
 
 
 ---
