@@ -46,14 +46,14 @@ sections:
         url: news  # This should match the slug of your full news page
     design:
       card:
-        css_class: "bg-dark"
+        css_class: "bg-dark no-margin"
       button:
         style: "background-color: #444; color: white; border-radius: 6px; padding: 5px 10px;"
         hover_style: "background-color: #555; color: white;"
 
       spacing:
         padding: [0, 0, 0, 0]  
-        margin: [-20, 0, 0, 0]   # Removes all extra margin
+        margin: [0, 0, 0, 0]   # Removes all extra margin
         # Removes unnecessary spacing
   # - block: collection
   #   id: news
