@@ -35,11 +35,7 @@ sections:
     content:
       title: '🗞️ Recent News'
       # Note: `username` refers to the user's folder name in `content/authors/`
-      username: admin
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]  
-        margin: [0, 0, 0, 0]    
+      username: admin 
   - block: cta-card
     id: more-news
     content:
