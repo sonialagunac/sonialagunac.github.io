@@ -161,22 +161,15 @@ awards:
     # icon: award
     # summary: |
     #   Starting a visiting reasearch stay in Cambridge! 
-  
-  - title: Organizer and Program Chair of the **Deep Generative Models for Health workshop**
-    url: https://sites.google.com/ethz.ch/dgm4h-neurips2023
-    date: '2023-12-15'
-    awarder: NeurIPS 2023
-    icon: rocket
-    summary: |
-      I had the pleasure of organizing the Deep Generative Models for Health workshop at NeurIPS 2023. 
-    
-  - title: Top Reviewer
-    url: https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers
-    date: '2023-12-10'
-    awarder: NeurIPS 2023
-    icon: award
+
+  - title: Starting a visiting reasearch stay in Cambridge!   
+    url: https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html
+    date: '2022-05-01'
+    # awarder: Starting a visiting reasearch stay in Cambridge!
+    # icon: award
     # summary: |
-    #   I had the pleasure of organizing the Deep Generative Models for Health workshop at NeurIPS 2023. 
+    #   Starting a visiting reasearch stay in Cambridge! 
+
 
 ---
 
