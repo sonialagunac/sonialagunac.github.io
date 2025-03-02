@@ -43,7 +43,7 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: post_kk
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -55,7 +55,7 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ""
-      # Choose how many pages you would like to offset by
+      # Choose how many pages you would like offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
@@ -76,7 +76,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-  
   # - block: collection
   #   content:
   #     title: Recent Publications
