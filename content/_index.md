@@ -34,7 +34,8 @@ sections:
     id: news
     content:
       title: '🗞️ Recent News'
-      description: '[All news >>](/news)'
+      text: '[All news >>](/news)'
+      # description: '[All news >>](/news)'
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
     design:
