@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
   - block: resume-awards
-    id: awards
+    id: news
     content:
       title: '🗞️ Recent News'
       # Note: `username` refers to the user's folder name in `content/authors/`
@@ -66,7 +66,7 @@ sections:
   #     spacing:
   #       padding: [0, 0, 0, 0]
   - block: collection
-    id: papers
+    id: publications
     content:
       title: Publications
       filters:
