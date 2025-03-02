@@ -36,11 +36,11 @@ sections:
       title: '🗞️ Recent News'
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin  
-  - block: blank
+  - block: announcement
     id: more-news
     content:
       title: "More News >>>"
-      text: ""
+      text: "Check out all the latest updates and announcements."
       button:
         text: "See All News"
         url: news  # This should match the slug of your full news page
@@ -49,6 +49,7 @@ sections:
         color: transparent
       spacing:
         padding: [1rem, 0, 1rem, 0]
+
 
   # - block: collection
   #   id: news
