@@ -30,17 +30,17 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: cta-card
-    id: blank 
-    content:
-      title: ll
-      text: 
-    design:
-      card:
-        css_class: "bg-dark"
-      spacing:
-        padding: [0, 0, 0, 0]  
-        margin: [0, 0, 0, 0] 
+  # - block: cta-card
+  #   id: blank 
+  #   content:
+  #     title: ll
+  #     text: 
+  #   design:
+  #     card:
+  #       css_class: "bg-dark"
+  #     spacing:
+  #       padding: [0, 0, 0, 0]  
+  #       margin: [0, 0, 0, 0] 
   - block: resume-awards
     id: news
     content:
