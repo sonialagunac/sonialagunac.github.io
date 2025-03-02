@@ -7,7 +7,7 @@ sections:
   - block: resume-awards
     id: all-news
     content:
-      title: 'kkk'
+      title: kkk
       awards:
         - title: 
             url: https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/
