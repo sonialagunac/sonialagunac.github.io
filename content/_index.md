@@ -101,9 +101,9 @@ sections:
     design:
       view: article-grid
       columns: 2
-      spacing:
-        padding: [0, 0, 0, 0]  # Remove internal padding inside the block
-        margin: [0, 0, 0, 0]  # Reduce top margin to 20px, remove others
+      # spacing:
+      #   padding: [0, 0, 0, 0]  # Remove internal padding inside the block
+      #   margin: [0, 0, 0, 0]  # Reduce top margin to 20px, remove others
   # - block: collection
   #   content:
   #     title: Recent Publications
