@@ -41,6 +41,7 @@ sections:
   #     spacing:
   #       padding: [0, 0, 0, 0]  
   #       margin: [0, 0, 0, 0] 
+  
   - block: cta-card
     id: more-news
     content:
