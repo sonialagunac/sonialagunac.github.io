@@ -30,6 +30,16 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: cta-card
+    id: spacing
+    content:
+      title: ""
+      text: ""
+    design:
+      spacing:
+        padding: [10, 0, 0, 0]  # Adds 10px vertical space above resume-awards
+        margin: [0, 0, 0, 0] 
+
   - block: resume-awards
     id: news
     content:
@@ -38,7 +48,7 @@ sections:
       username: admin
     design:
       spacing:
-        padding: [inherit, 0, 0, 0]   # Removes internal padding
+        padding: [0, 0, 0, 0]   # Removes internal padding
         margin: [0, 0, 0, 0]    # Removes external margin
   - block: cta-card
     id: more-news
