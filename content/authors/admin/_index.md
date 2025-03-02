@@ -153,30 +153,18 @@ interests:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+#Note for Sonia, i fyou want hyperlinks you need to activate the title but imo it's too big
 awards:
-  - title: Starting a visiting reasearch stay in Cambridge!
-    url: https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html
-    date: '2022-05-01'
-    awarder:  🚀
-    # icon: award
-    # summary: |
-    #   Starting a visiting reasearch stay in Cambridge! 
-    # icon: award
+  - title: 
+    url: 
+    date: '2025-02-01'
+    awarder: Started a reasearch stay in University of Cambridge with Mihaela Van der Schaar. Excited for the months ahead!
 
-  # - title: ""
-  #   url: https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html
-  #   date: '2022-05-01'
-  #   awarder: Starting a visiting reasearch stay in [Cambridge](https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html)! 🚀
-  #   # icon: award
-  #   # summary: |
-  #   #   Starting a visiting reasearch stay in Cambridge! 
-  # - title:   
-  #   url: https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html
-  #   date: '2022-05-01'
-  #   awarder:  Starting! 🚀
-    # icon: award
-    # summary: |
-    #   Starting a visiting reasearch stay in Cambridge! 
+  - title: 
+    url: 
+    date: '2024-07-01'
+    awarder: Joined Google as a Research Intern and got later extended into a Student Researcher working on 3D diffusion-based generative models. 
+
 
 ---
 
