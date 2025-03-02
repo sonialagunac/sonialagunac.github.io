@@ -34,14 +34,14 @@ sections:
     id: news
     content:
       title: '🗞️ Recent News'
-      text: '<a href="/news" style="color: blue; text-decoration: underline;">See all news >></a>'
+      text: '<a href="/news" style="text-decoration: underline;">See all news >></a>'
       # description: '[All news >>](/news)'
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]   # Removes internal padding
-        margin: [0, 0, 0, 0]    # Removes external margin
+    # design:
+    #   spacing:
+    #     padding: [0, 0, 0, 0]   # Removes internal padding
+    #     margin: [0, 0, 0, 0]    # Removes external margin
   # - block: cta-card
   #   id: more-news
   #   content:
@@ -101,9 +101,9 @@ sections:
     design:
       view: article-grid
       columns: 2
-      spacing:
-        padding: [0, 0, 0, 0]  # Remove internal padding inside the block
-        margin: [0, 0, 0, 0]  # Reduce top margin to 20px, remove others
+      # spacing:
+      #   padding: [0, 0, 0, 0]  # Remove internal padding inside the block
+      #   margin: [0, 0, 0, 0]  # Reduce top margin to 20px, remove others
   # - block: collection
   #   content:
   #     title: Recent Publications
