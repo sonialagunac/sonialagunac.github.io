@@ -33,8 +33,8 @@ sections:
   - block: cta-card
     id: more-news
     content:
-      title: '🗞️ Recent News'
-      text:
+      title: ''
+      text: '🗞️ Recent News'
       button:
         text: "See More News >>"
         url: news  # This should match the slug of your full news page
