@@ -33,16 +33,19 @@ sections:
   - block: resume-awards
     id: news
     content:
-      title: |
-      
-       🗞️
-        Recent News
+      title: '🗞️ Recent News'
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
+      button:
+        text: "See More News >>"
+        url: news  # This should match the slug of your full news page
     design:
       spacing:
         padding: [0, 0, 0, 0]   # Removes internal padding
-        margin: [0, 0, 0, 0]    # Removes external margin 
+        margin: [0, 0, 0, 0]    # Removes external margin
+      button:
+        style: "background-color: #444; color: white; border-radius: 6px; padding: 5px 10px;"
+        hover_style: "background-color: #555; color: white;" 
   - block: cta-card
     id: more-news
     content:
