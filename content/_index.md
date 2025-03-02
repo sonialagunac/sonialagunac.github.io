@@ -51,6 +51,7 @@ sections:
     design:
       card:
         css_class: "bg-dark"
+        css_style: "height: 20px; min-height: 20px; line-height: 20px;"
       button:
         style: "background-color: #444; color: white; border-radius: 6px; padding: 5px 10px;"
         hover_style: "background-color: #555; color: white;"
