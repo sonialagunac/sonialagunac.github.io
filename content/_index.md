@@ -35,7 +35,8 @@ sections:
     content:
       title: |
       
-        '🗞️ Recent News'
+       🗞️
+        Recent News
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
     design:
