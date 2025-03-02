@@ -38,8 +38,8 @@ sections:
       username: admin
     design:
       spacing:
-        padding: [0, 0, 0, 0]   # Removes internal padding
-        margin: [20, 0, 0, 0]    # Removes external margin 
+        # padding: [0, 0, 0, 0]   # Removes internal padding
+        margin: [0, 0, 0, 0]    # Removes external margin 
   - block: cta-card
     id: more-news
     content:
