@@ -155,43 +155,43 @@ interests:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 #Note for Sonia, i fyou want hyperlinks you need to activate the title but imo it's too big
 awards:
-  - title: Started a reasearch stay at University of Cambridge with Mihaela Van der Schaar.
+  - title: 
     url: https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/
     date: '2025-02-01'
-    awarder: 
-    summary: |
-      Excited for the months ahead!
+    awarder: Started a reasearch stay at University of Cambridge with Mihaela Van der Schaar. Excited for the months ahead! 🎓
+    # summary: |
+      
 
-  - title: Joined Google as a Research Intern and got extended into a Student Researcher.
+  - title: 
     url: https://arvr.google.com/
     date: '2024-07-01'
-    awarder: 
-  - title: Will be organizing workshop on GenAI and XAI in Istanbul!
+    awarder: Joined Google as a Research Intern and got extended into a Student Researcher. 🖥️
+  - title: 
     url: https://arvr.google.com/
     date: '2024-07-01'
-    awarder:  
-  - title: Our paper on Stochastic Concept Bottleneck Models got accepted at Neurips 2024!
+    awarder: Will be organizing workshop on GenAI and XAI in Istanbul! 🗣️
+  - title: 
     url: https://arvr.google.com/
     date: '2024-07-01'
-    awarder: 
-  - title: Our paper on how to intervene on any black box (Beyond CBMs) got accepted at Neurips 2024!
+    awarder: Our paper on Stochastic Concept Bottleneck Models got accepted at Neurips 2024!📝
+  - title: 
     url: https://arvr.google.com/
     date: '2024-07-01'
-    awarder: 
+    awarder: Our paper on how to intervene on any black box (Beyond CBMs) got accepted at Neurips 2024!📝
 
-  - title: Our paper on General Movement Classificaation at ML4H sympossium with Neurips 2024!
+  - title: 
     url: https://arvr.google.com/
     date: '2024-07-01'
-    awarder: 
+    awarder: Our paper on General Movement Classificaation at ML4H sympossium with Neurips 2024! 👶
   
-  - title: Our paper on Diffusion Models with CBMs got accepted at  workshop Neurips!
+  - title: 
     url: https://arvr.google.com/
     date: '2024-07-01'
-    awarder: 
-  - title: We organized an amazing Deep Generative Models for Health workshop at Nerips 2023!
+    awarder: Our paper on Diffusion Models with CBMs got accepted at  workshop Neurips!📝
+  - title: 
     url: https://arvr.google.com/
     date: '2024-07-01'
-    awarder: 
+    awarder: We organized an amazing Deep Generative Models for Health workshop at Nerips 2023!🗣️💻💉
 
 
 ---
