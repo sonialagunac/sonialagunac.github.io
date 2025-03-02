@@ -154,6 +154,14 @@ interests:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title:  [ a](https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html) 
+    url: https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html
+    date: '2022-05-01'
+    awarder: Starting a visiting reasearch stay in Cambridge! 🚀
+    # icon: award
+    # summary: |
+    #   Starting a visiting reasearch stay in Cambridge! 
+    # icon: award
   - title:   
     url: https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html
     date: '2022-05-01'
@@ -162,10 +170,6 @@ awards:
     # summary: |
     #   Starting a visiting reasearch stay in Cambridge! 
     # icon: award
-  - title:
-    url: https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html
-    date: '2022-05-01'
-    awarder: 'Starting a visiting research stay in <a href="https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html" target="_blank">Cambridge</a>! 🚀'
 
   # - title: ""
   #   url: https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html
