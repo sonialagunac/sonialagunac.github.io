@@ -168,13 +168,13 @@ awards:
     url: https://opedal.github.io/
     date: '2025-02-01'
     awarder: 
-    summary:  Excited for the months ahead!
+    summary: |
+      Excited for the months ahead!
 
   - title: Joined Google as a Research Intern and got later extended into a Student Researcher!
     url: 
     date: '2024-07-01'
     awarder: 
-    summary: Working on 3D diffusion-based generative 
 
 
 ---
