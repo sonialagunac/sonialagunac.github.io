@@ -7,6 +7,5 @@ sections:
   - block: resume-awards
     id: all-news
     content:
-      title: '🗞️ All News'
-      username: admin
----
+      title: 'kkk'
+      username: authors/admin 

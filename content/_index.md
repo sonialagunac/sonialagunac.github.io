@@ -48,8 +48,8 @@ sections:
       card:
         css_class: "bg-dark"
       button:
-        style: "background-color: #444; color: blue; border-radius: 6px; padding: 5px 10px;"
-        hover_style: "background-color: #555; color: blue;"
+        style: "background-color: #444; color: white; border-radius: 6px; padding: 5px 10px;"
+        hover_style: "background-color: #555; color: white;"
 
       spacing:
         padding: [0, 0, 0, 0]  
