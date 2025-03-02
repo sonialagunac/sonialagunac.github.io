@@ -187,6 +187,6 @@ Hi there!👋 I am a PhD student in Machine Learning at [ETH Zurich](https://eth
 
 I am currently a visiting student at [Cambridge University](https://www.cam.ac.uk/) with [Prof. Mihaela Van der Shaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/) working on alignment and interpretability of LLMs. During my PhD, I have been a Research Intern and a Student Researcher at Google, developing 3D diffusion-based generative models in the [AR&VR team](https://arvr.google.com/), and I am the team co-leader of [CSNOW](https://csnow.inf.ethz.ch/), Computer Science Network of Women at ETH. 
 
-I am always happy to collaborate and discuss new topics, feel free to reach out! 😃💡
-
 Prior to my doctoral studies, I obtained an MSc in the Department of Information Technology and Electrical Engineering at [ETH Zurich](https://ethz.ch/en.html), and spent a semester at [Harvard University](https://www.harvard.edu/) working on 3D generative models for super-resolution of MR images. I was lucky to be supported by two Spanish Excellence Fellowships, [La Caixa](https://becarios.fundacionlacaixa.org/en/sonia-laguna-cillero-B005184) and [Rafel del Pino](https://bfrdelpino.com/). Before that, I completed my BSc in Biomedical Engineering at [Universidad Carlos III de Madrid](https://www.uc3m.es/Home), spent one year at [Georgia Institute of Technology](https://www.gatech.edu/), and carried out an internship at [ETH Zurich](https://ethz.ch/en.html) as an [Amgen Scholar](https://amgenscholars.com/). 
+
+I am always happy to collaborate and discuss new topics, feel free to reach out! 😃💡
