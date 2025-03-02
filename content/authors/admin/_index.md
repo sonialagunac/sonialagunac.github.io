@@ -155,26 +155,43 @@ interests:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 #Note for Sonia, i fyou want hyperlinks you need to activate the title but imo it's too big
 awards:
-  - title: 
-    url: 
-    date: '2025-02-01'
-    awarder: Started a reasearch stay at University of Cambridge with Mihaela Van der Schaar. Excited for the months ahead!
-
-  - title: 
-    url: 
-    date: '2024-07-01'
-    awarder: Joined Google as a Research Intern and got later extended into a Student Researcher working on 3D diffusion-based generative models. 
   - title: Started a reasearch stay at University of Cambridge with Mihaela Van der Schaar.
-    url: https://opedal.github.io/
+    url: https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/
     date: '2025-02-01'
     awarder: 
     summary: |
       Excited for the months ahead!
 
-  - title: Joined Google as a Research Intern and got later extended into a Student Researcher!
-    url: 
+  - title: Joined Google as a Research Intern and got extended into a Student Researcher.
+    url: https://arvr.google.com/
     date: '2024-07-01'
     awarder: 
+  - title: Will be organizing workshop on GenAI and XAI in Istanbul!
+    url: https://arvr.google.com/
+    date: '2024-07-01'
+    awarder:  
+  - title: Our paper on Stochastic Concept Bottleneck Models got accepted at Neurips 2024!
+    url: https://arvr.google.com/
+    date: '2024-07-01'
+    awarder: 
+  - title: Our paper on how to intervene on any black box (Beyond CBMs) got accepted at Neurips 2024!
+    url: https://arvr.google.com/
+    date: '2024-07-01'
+    awarder: 
+
+  - title: Our paper on General Movement Classificaation at ML4H sympossium with Neurips 2024!
+    url: https://arvr.google.com/
+    date: '2024-07-01'
+    awarder: 
+  
+  - title: Our paper on Diffusion Models with CBMs got accepted at  workshop Neurips!
+    url: https://arvr.google.com/
+    date: '2024-07-01'
+    awarder: 
+  - title: We organized an amazing Deep Generative Models for Health workshop at Nerips 2023!
+  url: https://arvr.google.com/
+  date: '2024-07-01'
+  awarder: 
 
 
 ---
