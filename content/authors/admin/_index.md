@@ -161,11 +161,24 @@ awards:
     # icon: award
     # summary: |
     #   Starting a visiting reasearch stay in Cambridge! 
-
+  - title: null  
+    url: https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html
+    date: '2022-05-01'
+    awarder: Starting a visiting reasearch stay in [Cambridge](https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html)! 🚀
+    # icon: award
+    # summary: |
+    #   Starting a visiting reasearch stay in Cambridge! 
+  - title: ""
+    url: https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html
+    date: '2022-05-01'
+    awarder: Starting a visiting reasearch stay in [Cambridge](https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html)! 🚀
+    # icon: award
+    # summary: |
+    #   Starting a visiting reasearch stay in Cambridge! 
   - title:   
     url: https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html
     date: '2022-05-01'
-    awarder:  Starting a visiting reasearch stay in  Starting a visiting reasearch stay in  Starting a visiting reasearch stay in  Starting a visiting reasearch stay in  Starting a visiting reasearch stay in  Starting a visiting reasearch stay in  Starting a visiting reasearch stay in Starting a visiting reasearch stay in ! 🚀
+    awarder:  Starting! 🚀
     # icon: award
     # summary: |
     #   Starting a visiting reasearch stay in Cambridge! 
