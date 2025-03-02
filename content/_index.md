@@ -39,10 +39,10 @@ sections:
   - block: cta-card
     id: more-news
     content:
-      title: "More News >>>"
-      text: "Check out all the latest updates and announcements."
+      # title: "More News >>>"
+      # text: "Check out all the latest updates and announcements."
       button:
-        text: "See All News"
+        text: "See More Newss >>"
         url: news  # This should match the slug of your full news page
     design:
       card:
