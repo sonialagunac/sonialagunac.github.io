@@ -189,9 +189,9 @@ awards:
     date: '2024-07-01'
     awarder: 
   - title: We organized an amazing Deep Generative Models for Health workshop at Nerips 2023!
-  url: https://arvr.google.com/
-  date: '2024-07-01'
-  awarder: 
+    url: https://arvr.google.com/
+    date: '2024-07-01'
+    awarder: 
 
 
 ---
