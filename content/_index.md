@@ -43,7 +43,7 @@ sections:
       text:
       button:
         text: "See More News >>"
-        url: news/  # This should match the slug of your full news page
+        url: /news  # This should match the slug of your full news page
     design:
       card:
         css_class: "bg-dark"
