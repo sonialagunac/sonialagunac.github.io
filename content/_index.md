@@ -41,16 +41,6 @@ sections:
   #     spacing:
   #       padding: [0, 0, 0, 0]  
   #       margin: [0, 0, 0, 0] 
-  - block: resume-awards
-    id: news
-    content:
-      title: '🗞️ Recent News'
-      # Note: `username` refers to the user's folder name in `content/authors/`
-      username: admin
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]   # Removes internal padding
-        margin: [0, 0, 0, 0]    # Removes external margin
   - block: cta-card
     id: more-news
     content:
@@ -69,6 +59,17 @@ sections:
         padding: [0, 0, 0, 0]  
         margin: [0, 0, 0, 0]   # Removes all extra margin
         # Removes unnecessary spacing
+  - block: resume-awards
+    id: news
+    content:
+      title: '🗞️ Recent News'
+      # Note: `username` refers to the user's folder name in `content/authors/`
+      username: admin
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]   # Removes internal padding
+        margin: [0, 0, 0, 0]    # Removes external margin
+
   # - block: collection
   #   id: news
   #   content:
