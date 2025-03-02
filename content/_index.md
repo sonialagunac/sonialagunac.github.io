@@ -33,7 +33,9 @@ sections:
   - block: resume-awards
     id: news
     content:
-      title: '🗞️ Recent News'
+      title: |
+      
+        '🗞️ Recent News'
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
     design:
