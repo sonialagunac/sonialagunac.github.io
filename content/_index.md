@@ -112,7 +112,7 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      # page_type: post
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -124,6 +124,8 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ""
+        folders:
+          - post
       # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
