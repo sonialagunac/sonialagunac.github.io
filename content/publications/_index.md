@@ -15,7 +15,7 @@ sections:
           awarder: Started a reasearch stay at University of Cambridge with Mihaela Van der Schaar. Excited for the months ahead! 🎓
 
   # - block: collection
-  #   id: papers
+  #   id: publicationslong
   #   content:
   #     title: Publications
   #     count: 0
