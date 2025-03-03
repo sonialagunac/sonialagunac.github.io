@@ -45,7 +45,7 @@ sections:
       text: '<a href="/news" style="text-decoration: underline;">See all News >></a>'
       subtitle: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: news_col
+      # page_type: news_col
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -57,6 +57,9 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ""
+        folders:
+          - news_col
+        featured_only: true
       # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
@@ -67,6 +70,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
     # design:
     #   spacing:
     #     padding: [0, 0, 0, 0]   # Removes internal padding
