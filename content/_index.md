@@ -136,13 +136,6 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: page
-    id: newsnews
-    content:
-      title: News List
-      page: newss
-    design:
-      view: title
 
   - block: collection
     id: news2new
