@@ -93,8 +93,8 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications
-      text: '<a href="/publications" style="text-decoration: underline;">See all Publications >></a>'
+      title: 📝 Featured Publications
+      # text: '<a href="/publications" style="text-decoration: underline;">See all Publications >></a>'
       filters:
         folders:
           - publication
@@ -105,9 +105,12 @@ sections:
       # spacing:
       #   padding: [0, 0, 0, 0]  # Remove internal padding inside the block
       #   margin: [0, 0, 0, 0]  # Reduce top margin to 20px, remove others
+
   - block: collection
+    id: papers
     content:
-      title: Recent Publications
+      title: Publications
+      count: 0
       text: ""
       filters:
         folders:
@@ -115,6 +118,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
   # - block: collection
   #   id: talks
   #   content:
