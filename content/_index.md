@@ -105,6 +105,32 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]  # Remove internal padding inside the block
         margin: [0, 0, 0, 0]  # Reduce top margin to 20px, remove other
+  - block: custom
+    id: newsnew
+    content:
+      title: New Bueno dale
+      subtitle: ''
+      text: ''
+      entries:
+        - title: "🎉 First News"
+          summary: "bka bla bka happened"
+          date: "2023-10-27"
+          author: "Admin"
+
+        - title: "🚀 Second News"
+          summary: "Something amazing just occurred!"
+          date: "2023-11-01"
+          author: "Ted"
+
+        - title: "📢 Another Update"
+          summary: "A new feature was added!"
+          date: "2023-11-10"
+          author: "Admin"
+    design:
+      view: custom-news-list
+      spacing:
+        padding: [0, 0, 0, 0]
+
   - block: collection
     id: newsnew
     content:
