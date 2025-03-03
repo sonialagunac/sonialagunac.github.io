@@ -16,6 +16,6 @@ publication_types: ["article-journal"] # ["article"], ["article-journal"] or ['p
 # Publication name and optional abbreviated publication name.
 publication: "In Biosensors"
 publication_short: ""
-featured: true
+featured: false
 url_pdf: https://www.mdpi.com/2079-6374/12/12/1110
 ---

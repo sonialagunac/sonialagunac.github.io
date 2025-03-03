@@ -17,7 +17,7 @@ publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['
 # Publication name and optional abbreviated publication name.
 publication: "*In NeurIPS 2024*"
 publication_short: ""
-featured: true
+featured: false
 url_pdf: https://openreview.net/pdf?id=pinw0Gcot4T
 url_code: https://github.com/sonialagunac/SR_LowField_MRI
 ---
