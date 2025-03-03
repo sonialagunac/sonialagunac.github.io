@@ -38,6 +38,35 @@ sections:
       # description: '[All news >>](/news)'
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
+  - block: collection
+    id: newsnew
+    content:
+      title: '🗞️ Recent News'
+      text: '<a href="/news" style="text-decoration: underline;">See all News >></a>'
+      subtitle: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: news_col
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: citation # CHange to data-title-summary, also cute
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
     # design:
     #   spacing:
     #     padding: [0, 0, 0, 0]   # Removes internal padding
@@ -105,82 +134,6 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]  # Remove internal padding inside the block
         margin: [0, 0, 0, 0]  # Reduce top margin to 20px, remove other
-  - block: collection
-    id: newsnew
-    content:
-      title: "New Bueno"
-      subtitle: ""
-      text: ""
-      page_type: kk
-      count: 1
-      # filters:
-      #   folders:
-      #     - kk  # 👈 Now it loads from `content/news/_index.md`
-    design:
-      view: date-title-summary
-      spacing:
-        padding: [0, 0, 0, 0]
-  - block: collection
-    id: newsnew
-    content:
-      title: New bueno
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      # page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-        folders:
-          - post
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
-
-  - block: collection
-    id: news2new
-    content:
-      title: New bueno
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: citation
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
   # - block: collection
   #   # id: publicationslong
   #   content:
