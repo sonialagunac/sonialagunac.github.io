@@ -94,7 +94,7 @@ sections:
     id: publications
     content:
       title: 📝 Featured Publications
-      # text: '<a href="/publications" style="text-decoration: underline;">See all Publications >></a>'
+      text: '<a href="/publications" style="text-decoration: underline;">See all Publications >></a>'
       filters:
         folders:
           - publication
