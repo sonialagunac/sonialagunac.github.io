@@ -1,5 +1,5 @@
 ---
-title: 🗣️ I am Program Chair of the Generative AI for Biomedical Applications Workshop at IEEE CBMS.
+title: 🗣️ I am Program Chair of the GenAI for Biomed Applications Workshop at IEEE CBMS.
 summary: Looking forward to the submissions! 
 date: 2025-01-01
 ---
