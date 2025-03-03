@@ -1,5 +1,5 @@
 ---
-title: 🗣️ Our Workshop on Deep Geneartive Models for Health was accepted! 
+title: 🗣️ Our Workshop on Deep Generative Models for Health was accepted! 
 summary: Organizer of the workshop at Neurips 2023. 
 date: 2023-08-01
 ---

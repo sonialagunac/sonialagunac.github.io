@@ -1,6 +1,6 @@
 ---
-title: 🖥️ Joined Google as a Research Intern and got extended into a Student Researcher.
-summary: Working on the AR&VR team. 
+title: 🖥️ Joined Google as a Research Intern and later extended as a Student Researcher.
+summary: So excited to be working on the AR&VR team! 
 date: 2024-07-01
 ---
 
