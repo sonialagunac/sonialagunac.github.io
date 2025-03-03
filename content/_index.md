@@ -30,19 +30,19 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: resume-awards
+  # - block: resume-awards
+  #   id: news
+  #   content:
+  #     title: '🗞️ Recent News'
+  #     text: '<a href="/news" style="text-decoration: underline;">See all News >></a>'
+  #     # description: '[All news >>](/news)'
+  #     # Note: `username` refers to the user's folder name in `content/authors/`
+  #     username: admin
+  - block: collection
     id: news
     content:
       title: '🗞️ Recent News'
       text: '<a href="/news" style="text-decoration: underline;">See all News >></a>'
-      # description: '[All news >>](/news)'
-      # Note: `username` refers to the user's folder name in `content/authors/`
-      username: admin
-  - block: collection
-    id: newsnew
-    content:
-      title: '🗞️ Recent News'
-      text: '<a href="/news" style="text-decoration: underline;">See all News >></a>'
       subtitle: ''
       # Page type to display. E.g. post, talk, publication...
       # page_type: news_col
@@ -58,39 +58,7 @@ sections:
         # exclude_past: false
         # publication_type: ""
         folders:
-          - news_col
-        # featured_only: true
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: citation #citation # change to data-title-summary, also cute
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
-  - block: collection
-    id: newsnew
-    content:
-      title: '🗞️ Recent News'
-      text: '<a href="/news" style="text-decoration: underline;">See all News >></a>'
-      subtitle: ''
-      # Page type to display. E.g. post, talk, publication...
-      # page_type: news_col
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        # author: ""
-        # category: ""
-        # tag: ""
-        # exclude_featured: false
-        # exclude_future: false
-        # exclude_past: false
-        # publication_type: ""
-        folders:
-          - news_col
+          - news
         # featured_only: true
       # Choose how many pages you would like to offset by
       offset: 0
