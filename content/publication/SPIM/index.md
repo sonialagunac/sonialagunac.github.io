@@ -13,7 +13,7 @@ authors:
 date: "2022-12-01"
 publication_types: ["article-journal"] # ["article"], ["article-journal"] or ['paper-conference']
 
-# Publication name and optional abbreviated publication name.
+# Publication name and optional abbreviated publication name .
 publication: "*In Biosensors*"
 publication_short: ""
 featured: false
