@@ -8,7 +8,7 @@ authors:
 date: '2024-12-10'
 publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['paper-conference']
 
-# Publication name and optional abbreviated publication name.
+# Publication name and optional abbreviated publication name .
 publication: "*In NeurIPS 2024*"
 publication_short: ""
 featured: true
