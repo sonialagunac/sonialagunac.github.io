@@ -127,12 +127,14 @@ sections:
     id: publications
     content:
       title: 📝 Featured Publications
-      # text: '<a href="/publications" style="text-decoration: underline;">See all Publications >></a>'
-      text: '<a href="/publications" style="text-decoration: underline;">See all Publications >></a> or check my <a href="https://scholar.google.com/citations?user=PljVnCQAAAAJ&hl=es&oi=ao" style="text-decoration: underline;">Google Scholar >></a>'
+      text: '<a href="/publications" style="text-decoration: underline;">See all Publications >></a>'
+      # text: '<a href="/publications" style="text-decoration: underline;">See all Publications >></a> or check my <a href="https://scholar.google.com/citations?user=PljVnCQAAAAJ&hl=es&oi=ao" style="text-decoration: underline;">Google Scholar >></a>'
       filters:
         folders:
           - publication
         featured_only: true
+      text: '<a href="https://scholar.google.com/citations?user=PljVnCQAAAAJ&hl=es&oi=ao"style="text-decoration: underline;">Check out my Google Scholar>></a>'
+    
     design:
       view: article-grid
       columns: 2
