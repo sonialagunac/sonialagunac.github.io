@@ -129,7 +129,6 @@ sections:
       title: 📝 Featured Publications
       # text: '<a href="/publications" style="text-decoration: underline;">See all Publications >></a>'
       text: '<a href="/publications" style="text-decoration: underline;">See all Publications >></a> or check my <a href="https://scholar.google.com/citations?user=PljVnCQAAAAJ&hl=es&oi=ao" style="text-decoration: underline;">Google Scholar >></a>'
-'
       filters:
         folders:
           - publication
