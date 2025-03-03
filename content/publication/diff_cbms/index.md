@@ -5,7 +5,7 @@ authors:
 - admin
 - Moritz Vandenhirtz
 - Julia E. Vogt
-date: '2024-10-24'
+date: '2024-10-22'
 publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.

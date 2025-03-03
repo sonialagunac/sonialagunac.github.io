@@ -6,7 +6,7 @@ authors:
 - admin
 - Daphne Chopard
 - Julia E. Vogt
-date: '2024-06-24'
+date: '2024-02-24'
 publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.

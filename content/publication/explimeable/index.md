@@ -9,7 +9,7 @@ authors:
 - Udo Schlegel
 - Furui Cheng
 - Mennatallah El-Assady
-date: '2024-06-24'
+date: '2023-09-24'
 publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
