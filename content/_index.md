@@ -137,9 +137,9 @@ sections:
     design:
       view: citation #article-grid
       # columns: 2
-      spacing:
-        padding: [0, 0, 0, 0]  # Remove internal padding inside the block
-        margin: [0, 0, 0, 0]  # Reduce top margin to 20px, remove other
+      # spacing:
+      #   padding: [0, 0, 0, 0]  # Remove internal padding inside the block
+      #   margin: [0, 0, 0, 0]  # Reduce top margin to 20px, remove other
   # - block: collection
   #   # id: publicationslong
   #   content:
