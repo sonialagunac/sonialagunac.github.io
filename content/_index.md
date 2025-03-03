@@ -98,7 +98,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: data-title-summary #citation # change to data-title-summary, also cute
+      view: article-grid #data-title-summary #citation # change to data-title-summary, also cute
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
