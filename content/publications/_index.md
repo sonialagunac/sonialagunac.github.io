@@ -14,16 +14,16 @@ sections:
           date: '2025-02-01'
           awarder: Started a reasearch stay at University of Cambridge with Mihaela Van der Schaar. Excited for the months ahead! 🎓
 
-  # - block: collection
-  #   id: publicationslong
-  #   content:
-  #     title: Publications
-  #     count: 0
-  #     text: ""
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: false
-  #   design:
-  #     view: citation
+  - block: collection
+    id: publicationslong
+    content:
+      title: Publications
+      count: 0
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
 ---

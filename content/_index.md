@@ -107,7 +107,7 @@ sections:
         margin: [0, 0, 0, 0]  # Reduce top margin to 20px, remove other
 
   - block: collection
-    id: publicationslong
+    # id: publicationslong
     content:
       title: Publications
       count: 0
