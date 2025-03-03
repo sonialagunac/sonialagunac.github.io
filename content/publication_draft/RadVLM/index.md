@@ -19,7 +19,7 @@ authors:
 date: '2025-02-5'
 publication_types: ["article"] # ["article"], ["article-journal"] or ['paper-conference']
 
-# Publication name and optional abbreviated publication name.
+# Publication name and optional abbreviated publication name. 
 publication: "Preprint - Arxiv"
 publication_short: ""
 featured: true
