@@ -8,7 +8,7 @@ authors:
 - Anna Badura
 - Sven Wellmann
 - Julia E. Vogt
-date: "2024-11-14"
+date: '2024-11-14'
 publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.

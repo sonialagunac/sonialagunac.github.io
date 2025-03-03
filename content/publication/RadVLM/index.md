@@ -16,7 +16,7 @@ authors:
 - Christian Bluthgen
 - Farhad Nooralahzadeh
 - Michael Krauthammer
-date: "2025-02-5"
+date: '2025-02-5'
 publication_types: ["article"] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
