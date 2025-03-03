@@ -113,9 +113,9 @@ sections:
       text: ""
       page_type: kk
       count: 1
-      filters:
-        folders:
-          - news  # 👈 Now it loads from `content/news/_index.md`
+      # filters:
+      #   folders:
+      #     - kk  # 👈 Now it loads from `content/news/_index.md`
     design:
       view: date-title-summary
       spacing:
