@@ -42,7 +42,7 @@ sections:
     id: news
     content:
       title: '🗞️ Recent News'
-      text: '<a href="/news" style="text-decoration: underline;">See all News >></a>'
+      text: '<a href="news" style="text-decoration: underline;">See all News >></a>'
       subtitle: ''
       # Page type to display. E.g. post, talk, publication...
       # page_type: news_col
