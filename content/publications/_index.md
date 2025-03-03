@@ -4,45 +4,17 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: resume-awards
-    id: all-publications
+  - block: collection
+    id: papers
     content:
-      title: "🗞️ All News"
-      awards:
-      - title: 
-        url: https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/
-        date: '2025-02-01'
-        awarder: Started a reasearch stay at University of Cambridge with Mihaela Van der Schaar. Excited for the months ahead! 🎓
-
-      - title: 
-        url: https://arvr.google.com/
-        date: '2024-07-01'
-        awarder: Joined Google as a Research Intern and got extended into a Student Researcher. 🖥️
-      - title: 
-        url: https://arvr.google.com/
-        date: '2024-07-01'
-        awarder: Will be organizing workshop on GenAI and XAI in Istanbul! 🗣️
-      - title: 
-        url: https://arvr.google.com/
-        date: '2024-07-01'
-        awarder: Our paper on Stochastic Concept Bottleneck Models got accepted at Neurips 2024!📝
-      - title: 
-        url: https://arvr.google.com/
-        date: '2024-07-01'
-        awarder: Our paper on how to intervene on any black box (Beyond CBMs) got accepted at Neurips 2024!📝
-
-      - title: 
-        url: https://arvr.google.com/
-        date: '2024-07-01'
-        awarder: Our paper on General Movement Classificaation at ML4H sympossium with Neurips 2024! 👶
-      
-      - title: 
-        url: https://arvr.google.com/
-        date: '2024-07-01'
-        awarder: Our paper on Diffusion Models with CBMs got accepted at  workshop Neurips!📝
-      - title: 
-        url: https://arvr.google.com/
-        date: '2024-07-01'
-        awarder: We organized an amazing Deep Generative Models for Health workshop at Nerips 2023!🗣️💻💉
+      title: Publications
+      count: 0
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
 
 ---
