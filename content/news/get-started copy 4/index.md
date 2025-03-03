@@ -1,7 +1,7 @@
 ---
-title: 🖥️ Joined Google as a Research Intern and got extended into a Student Researcher.
-# summary: bka bla bka happened
-date: 2024-07-01
+title: 📝 Our two workshops papers got accepted at Neurips 2024! 
+summary: We explore (i) interpretable capabilities of generative models, and (ii) a real world clinical application of newborn screening. Checkout the preprints!
+date: 2024-12-01
 ---
-
-Link to [website](https://arvr.google.com/).
+We explore: (i) interpretable capabilities of generative models in (Exploiting Interpretable Capabilities with
+Concept-Enhanced Diffusion and Prototype Networks)[https://arxiv.org/pdf/2410.18705], and (ii) a real world clinical application of newborn screening in (Automatic Classification of General Movements in Newborns)[https://arxiv.org/pdf/2411.09821]. Checkout the preprints!

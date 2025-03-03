@@ -1,7 +1,6 @@
 ---
-title: 🖥️ Joined Google as a Research Intern and got extended into a Student Researcher.
-# summary: bka bla bka happened
-date: 2024-07-01
+title: 🗣️ I am Program Chair of the Generative AI for Biomedical Applications Workshop at IEEE CBMS.
+summary: Looking forward to the submissions! 
+date: 2025-01-01
 ---
-
-Link to [website](https://arvr.google.com/).
+Looking forward to the submissions to the [Special Track](https://sites.google.com/view/gai4ba/organizing-committee?authuser=0) and the interesting discussions!
