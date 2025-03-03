@@ -9,10 +9,10 @@ sections:
     content:
       title: "📝 All Publications"
       awards:
-      - title: 
-        url: https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/
-        date: '2025-02-01'
-        awarder: Started a reasearch stay at University of Cambridge with Mihaela Van der Schaar. Excited for the months ahead! 🎓
+        - title: 
+          url: https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/
+          date: '2025-02-01'
+          awarder: Started a reasearch stay at University of Cambridge with Mihaela Van der Schaar. Excited for the months ahead! 🎓
 
   # - block: collection
   #   id: papers
