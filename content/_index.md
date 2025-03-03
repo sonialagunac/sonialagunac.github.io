@@ -104,20 +104,20 @@ sections:
       columns: 2
       # spacing:
       #   padding: [0, 0, 0, 0]  # Remove internal padding inside the block
-      #   margin: [0, 0, 0, 0]  # Reduce top margin to 20px, remove others
+      #   margin: [0, 0, 0, 0]  # Reduce top margin to 20px, remove other
 
-  - block: collection
-    id: publications-long
-    content:
-      title: Publications
-      count: 0
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+  # - block: collection
+  #   id: publications-long
+  #   content:
+  #     title: Publications
+  #     count: 0
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
 
   # - block: collection
   #   id: talks
