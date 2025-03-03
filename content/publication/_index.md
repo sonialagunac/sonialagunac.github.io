@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 📝 All Publications
 cms_exclude: true
 
 # View.
