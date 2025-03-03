@@ -7,7 +7,7 @@ sections:
   - block: resume-awards
     id: all-publications
     content:
-      title: "🗞️ All News"
+      title: "📝 All Publications"
       awards:
       - title: 
         url: https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/
