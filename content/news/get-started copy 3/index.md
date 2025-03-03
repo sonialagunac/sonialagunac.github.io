@@ -1,7 +1,7 @@
 ---
-title: 🎉 First news
-summary: bka bla bka happened
-date: 2023-10-27
+title: 🖥️ Joined Google as a Research Intern and got extended into a Student Researcher.
+# summary: bka bla bka happened
+date: 2024-07-01
 ---
 
-bka bla bka happened [edfd](www.si.com)
+Link to [website](https://arvr.google.com/).
