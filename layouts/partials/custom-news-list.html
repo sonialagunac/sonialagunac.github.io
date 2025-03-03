@@ -1,0 +1,14 @@
+{{ with .content.entries }}
+  <ul>
+    {{ range . }}
+      <li>
+        <h3>{{ .title }}</h3>
+        <p><strong>Date:</strong> {{ .date }}</p>
+        <p><strong>Author:</strong> {{ .author }}</p>
+        <p>{{ .summary }}</p>
+      </li>
+    {{ end }}
+  </ul>
+{{ else }}
+  <p>No news available.</p>
+{{ end }}
