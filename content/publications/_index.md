@@ -1,19 +1,12 @@
 ---
-title: "🗞️ All News"
-date: 2022-10-24
-type: landing
+title: 📝 All Publications
+cms_exclude: true
 
-sections:
-  - block: collection
-    id: publicationslong
-    content:
-      title: "📝 All Publications"
-      count: 0
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+# View.
+view: citation
+
+# Optional header image (relative to `static/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---
