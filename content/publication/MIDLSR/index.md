@@ -15,7 +15,7 @@ date: '2022-06-25'
 publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "*In NeurIPS 2024*"
+publication: "*In MIDL (Medical Imaging with Deep Learning Conference) 2022*"
 publication_short: ""
 featured: false
 url_pdf: https://openreview.net/pdf?id=pinw0Gcot4T

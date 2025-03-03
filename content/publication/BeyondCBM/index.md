@@ -1,8 +1,9 @@
 ---
 title: "Beyond Concept Bottleneck Models: How to Make Black Boxes Intervenable"
 authors:
+- "*"
 - admin
-- "* Ričards Marcinkevičs*"
+- "*Ričards Marcinkevičs"
 - Moritz Vandenhirtz
 - Julia E. Vogt
 date: '2024-12-10'
