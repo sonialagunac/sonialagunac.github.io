@@ -1,8 +1,6 @@
 ---
-title: Started a reasearch stay at University of Cambridge! 
+title: 🏛️ Started a reasearch stay at University of Cambridge! 
 summary: Will be working on alignment of LLMs with Prof. Mihaela Van der Shaar.
 date: 2025-02-01
-
-#Will be working on alignment of LLMs with 
 ---
-[Prof. Mihaela Van der Shaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). 
+Will be working on alignment of LLMs with [Prof. Mihaela Van der Shaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/). 
