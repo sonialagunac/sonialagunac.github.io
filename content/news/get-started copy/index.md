@@ -1,7 +1,5 @@
 ---
-title: Will be organizing workshop on GenAI and XAI in Istanbul! 🗣️
-summary: 
-date: 2024-07-01
+title: Our workshop on GenAI and XAI was accepted! 🗣️
+summary: Will be [organizing it](https://xaiworldconference.com/2025/generative-ai-meets-explainable-ai/) as part of the Worlde Conference on XAI. 
+date: 2025-01-01
 ---
-
-Link to [website](https://arvr.google.com/).
