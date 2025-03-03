@@ -20,7 +20,7 @@ date: '2025-02-05'
 publication_types: ["article"] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name. 
-publication: "Preprint - Arxiv"
+publication: "*Preprint - Arxiv*"
 publication_short: ""
 featured: true
 url_pdf: https://arxiv.org/pdf/2502.03333

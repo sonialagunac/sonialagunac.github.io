@@ -14,7 +14,7 @@ date: "2022-12-01"
 publication_types: ["article-journal"] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "In Biosensors"
+publication: "*In Biosensors*"
 publication_short: ""
 featured: false
 url_pdf: https://www.mdpi.com/2079-6374/12/12/1110

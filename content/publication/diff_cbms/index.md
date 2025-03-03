@@ -5,11 +5,11 @@ authors:
 - admin
 - Moritz Vandenhirtz
 - Julia E. Vogt
-date: '2024-10-22'
+date: '2024-12-8'
 publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "In NeurIPS 2024 Workshop Interpretable AI"
+publication: "*In NeurIPS 2024 Workshop Interpretable AI*"
 publication_short: ""
 featured: true
 url_pdf: https://arxiv.org/pdf/2410.18705

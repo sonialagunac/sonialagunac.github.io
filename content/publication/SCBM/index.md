@@ -5,7 +5,7 @@ authors:
 - admin
 - Ričards Marcinkevičs
 - Julia E. Vogt
-date: '2024-10-23'
+date: '2024-12-09'
 publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
