@@ -6,7 +6,17 @@ authors:
 - Samuel Ruiperez-Campillo
 - Moritz Vandenhirtz
 - admin
-date: '2025-02-5'
+- Alain Ryser
+- Koji Fujimoto
+- Mizuho Nishio
+- Thomas M. Sutter
+- Julia E. Vogt
+- Jonas Kluckert
+- Thomas Frauenfelder
+- Christian Bluthgen
+- Farhad Nooralahzadeh
+- Michael Krauthammer
+date: '2025-02-05'
 publication_types: ["article"] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name. 
