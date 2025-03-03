@@ -105,19 +105,47 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]  # Remove internal padding inside the block
         margin: [0, 0, 0, 0]  # Reduce top margin to 20px, remove other
-
   - block: collection
-    # id: publicationslong
+    id: news-new
     content:
-      title: Publications
-      count: 0
-      text: ""
+      title: New bueno
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: post
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
       filters:
-        folders:
-          - publication
+        author: ""
+        category: ""
+        tag: ""
         exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
     design:
-      view: citation
+      # Choose a layout view
+      view: date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
+  # - block: collection
+  #   # id: publicationslong
+  #   content:
+  #     title: Publications
+  #     count: 0
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
 
   # - block: collection
   #   id: talks
