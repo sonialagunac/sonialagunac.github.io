@@ -1,5 +1,5 @@
 ---
-title: 🗣️ Our workshop on GenAI meets XAI was accepted! 
+title: 🗣️ Our Workshop on GenAI meets XAI was accepted! 
 summary: Organizer of the workshop in the World Conference on XAI. 
 date: 2025-01-01
 ---
