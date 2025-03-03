@@ -9,7 +9,7 @@ date: '2024-06-24'
 publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "NeurIPS 2024"
+publication: "*In NeurIPS 2024*"
 publication_short: ""
 featured: true
 url_pdf: https://proceedings.neurips.cc/paper_files/paper/2024/file/5c7894ac8788555f1cecf536f1e0fd35-Paper-Conference.pdf
