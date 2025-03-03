@@ -11,7 +11,7 @@ authors:
 - Matthew S. Rosen
 - W. Taylor Kimberly
 - Juan Eugenio Iglesias
-date: '2022-06-25'
+date: '2022-12-25'
 publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.

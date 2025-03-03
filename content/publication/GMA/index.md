@@ -1,5 +1,5 @@
 ---
-title: "RadVLM: A Multitask Conversational Vision-Language Model for Radiology"
+title: "Automatic Classification of General Movements in Newborns"
 authors:
 - "* Daphné Chopard *"
 - admin
