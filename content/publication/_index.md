@@ -6,7 +6,7 @@ cms_exclude: true
 view: citation
 
 # Optional header image (relative to `static/media/` folder).
-header:
+banner:
   caption: ''
   image: ''
 ---
