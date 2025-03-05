@@ -1,8 +1,8 @@
 ---
 title: "Stochastic Concept Bottleneck Models"
 authors:
-- Moritz Vandenhirtz *
-- admin copy
+- Moritz Vandenhirtz*
+- admin sharedauth
 - Ričards Marcinkevičs
 - Julia E. Vogt
 date: '2024-12-09'
