@@ -1,9 +1,9 @@
 ---
 title: "Automatic Classification of General Movements in Newborns"
 authors:
-- "* Daphné Chopard *"
-- admin
-- "* Kieran Chin-Cheong "
+- "Daphné Chopard*"
+- admin sharedauth
+- "Kieran Chin-Cheong*"
 - Annika Dietz
 - Anna Badura
 - Sven Wellmann

@@ -1,8 +1,8 @@
 ---
 title: "Single Plane Illumination Microscopy for Microfluidic Device Imaging"
 authors:
-- "* Clara Gomez-Cruz *"
-- admin
+- Clara Gomez-Cruz*
+- admin sharedauth
 - Ariadna Bachiller-Pulido
 - Cristina Quilez
 - Marina Cañadas-Ortega
