@@ -9,7 +9,7 @@ date: '2024-12-08'
 publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "*In NeurIPS 2024 Workshop Interpretable AI (Oral)*"
+publication: "*In NeurIPS 2024 (Oral) Workshop Interpretable AI*"
 publication_short: ""
 featured: true
 url_pdf: https://arxiv.org/pdf/2410.18705
