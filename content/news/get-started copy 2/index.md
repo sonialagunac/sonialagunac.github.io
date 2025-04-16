@@ -1,5 +1,5 @@
 ---
-title: 📝 Our two main conference papers on Concept Bottleneck Models got accepted at Neurips 2024!
+title: 📝 Our two main conference papers on Concept Bottleneck Models got accepted at NeurIPS 2024!
 summary: Checkout the preprints. 
 date: 2024-12-01
 ---

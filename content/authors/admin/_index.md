@@ -171,7 +171,7 @@ awards:
   - title: 
     url: https://arvr.google.com/
     date: '2024-07-01'
-    awarder: Our paper on Stochastic Concept Bottleneck Models got accepted at Neurips 2024!📝
+    awarder: Our paper on Stochastic Concept Bottleneck Models got accepted at NeurIPS 2024!📝
 
 ---
 
