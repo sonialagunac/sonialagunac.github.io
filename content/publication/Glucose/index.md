@@ -1,7 +1,7 @@
 ---
 title: "Beyond Glucose-Only Assessment: Advancing Nocturnal Hypoglycemia Prediction in Children with Type 1 Diabetes"
 authors:
-- Marco Voegeli
+- "Marco Voegeli*"
 - admin sharedauth
 - Heike Leutheuser
 - Marc Pfister

@@ -1,9 +1,9 @@
 ---
 title: "Towards Scalable Newborn Screening: Automated General Movement Assessment in Uncontrolled Settings"
 authors:
-- Daphné Chopard
+- "Daphné Chopard*"
 - admin sharedauth
-- Kieran Chin-Cheong
+- "Kieran Chin-Cheong*"
 - Annika Dietz
 - Anna Badura
 - Sven Wellmann
