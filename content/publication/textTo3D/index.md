@@ -7,8 +7,9 @@ authors:
 - Stylianos Moschoglou
 - Leonhard Helminger
 - Sergio Orts-Escolano
-date: '2025-04-27'
-publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['paper-conference']
+
+date: "2025-04-27"
+publication_types: ["paper-conference"] # ["article"], ["article-journal"] or ['paper-conference']
 
 
 # Publication name and optional abbreviated publication name.

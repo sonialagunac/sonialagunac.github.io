@@ -8,8 +8,9 @@ authors:
 - Anna Badura
 - Sven Wellmann
 - Julia E. Vogt
-date: '2025-04-27'
-publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['paper-conference']
+
+date: "2025-04-27"
+publication_types: ["paper-conference"] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: "*In ICLR 2025 (Oral) Workshop AI for Children*"

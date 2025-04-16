@@ -9,8 +9,8 @@ authors:
 - Udo Schlegel
 - Furui Cheng
 - Mennatallah El-Assady
-date: '2023-12-24'
-publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['paper-conference']
+date: "2023-12-24"
+publication_types: ["paper-conference"] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: "*In XAI Workshop NeurIPS 2023*"

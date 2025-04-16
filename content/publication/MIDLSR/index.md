@@ -11,8 +11,8 @@ authors:
 - Matthew S. Rosen
 - W. Taylor Kimberly
 - Juan Eugenio Iglesias
-date: '2022-12-25'
-publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['paper-conference']
+date: "2022-12-25"
+publication_types: ["paper-conference"] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: "*In MIDL (Medical Imaging with Deep Learning Conference) 2022*"
