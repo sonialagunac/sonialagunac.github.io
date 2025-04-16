@@ -10,6 +10,7 @@ authors:
 date: '2025-04-27'
 publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['paper-conference']
 
+
 # Publication name and optional abbreviated publication name.
 publication: "*In ICLR 2025 Workshop Synth Data*"
 publication_short: ""
