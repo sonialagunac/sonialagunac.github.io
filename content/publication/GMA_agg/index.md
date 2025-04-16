@@ -15,7 +15,7 @@ publication_types: ["paper-conference"] # ["article"], ["article-journal"] or ['
 # Publication name and optional abbreviated publication name.
 publication: "*In ICLR 2025 (Oral) Workshop AI for Children*"
 publication_short: ""
-featured: false
+featured: true
 url_pdf: https://arxiv.org/pdf/2411.09821
 url_code: https://github.com/chopardda/GMA
 ---
