@@ -13,7 +13,7 @@ date: "2025-04-16"
 publication_types: ["paper-conference"] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "*In ICLR 2025 (Oral) Workshop AI for Children*"
+publication: "*In ICLR 2025 (Best Paper Award - Oral) Workshop AI for Children*"
 publication_short: ""
 featured: true
 url_pdf: https://arxiv.org/pdf/2411.09821
