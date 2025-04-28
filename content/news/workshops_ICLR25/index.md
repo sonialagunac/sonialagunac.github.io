@@ -1,5 +1,5 @@
 ---
-title: 📝 Attending ICLR 2025 in Singapore, our four workshop papers got accepted with an oral (Best Paper Award 🏆) contribution!
+title: 📝 Attending ICLR 2025 in Singapore, our four workshop papers got accepted with an oral contribution(Best Paper Award 🏆)!
 summary: Excited to be presenting part of our latest work on 3D generative models, an information theoretic view of interpretability, and on predictive models in healthcare. Checkout the preprints!
 date: 2025-04-02
 ---
