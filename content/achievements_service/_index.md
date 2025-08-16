@@ -25,7 +25,7 @@ sections:
         **Summer School Attendee:** CGSI, MLSS South Africa <br>
         **Teaching:** Advanced Machine Learning 2025, Signal & Systems 2019 <br>
         **Student Supervisior:** 8 MSc Theses 2023-2025 <br>
-        **Torch Library Contributor:** Contributor to the open-source (Pytorch Concepts library)[https://github.com/pyc-team/pytorch_concepts] incorporating prior CBM work.<br>
+        **Torch Library Contributor:** Contributor to the open-source [Pytorch Concepts library](https://github.com/pyc-team/pytorch_concepts) incorporating prior CBM work.<br>
         **Summer School Attendee:** CGSI, MLSS South Africa <br>
         **Mentoring & Student Outreach:** Alumni Amgen Scholars mentoring etc 2020-2025, ETH Project Access 2020-2022, Student Buddy UC3M: , UC3M Captain Basketball Team  <br>
         
