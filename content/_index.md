@@ -39,7 +39,7 @@ sections:
   #     # Note: `username` refers to the user's folder name in `content/authors/`
   #     username: admin
   - block: collection
-    id: news_recent
+    id: news
     content:
       title: '🗞️ Recent News'
       text: '<a href="news" style="text-decoration: underline;">See all News >></a>'

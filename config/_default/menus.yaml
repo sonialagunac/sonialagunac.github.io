@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: News
-    url: /#news
+    url: /news
     weight: 13
   - name: Academic Service & Achievements
     url: /#achievements_service
