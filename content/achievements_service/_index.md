@@ -17,8 +17,8 @@ sections:
       title: Academic Service
       subtitle: 
       text: |
-        **Team Leader** CSNOW *2023-2025* <br>
-        **Invited Speaker**: Microsoft, Doctoral ML Seminar ETH <br>
+        - **Team Leader** CSNOW *2023-2025* <br>
+        - **Invited Speaker**: Microsoft, Doctoral ML Seminar ETH <br>
         **Workshop Organizer**: GenAI meets XAI, Neurips 2023 Deep Generative Models for Health <br>
         **Reviewing**: Neurips, ICLR, ICML, MLHC, Program Chair IEE CBMS 2025 <br>
         - Torch Library Contributor: 
