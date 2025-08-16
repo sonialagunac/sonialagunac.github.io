@@ -22,7 +22,7 @@ publication_types: ["article"] # ["article"], ["article-journal"] or ['paper-con
 # Publication name and optional abbreviated publication name. 
 publication: "*Preprint - Arxiv*"
 publication_short: ""
-featured: true
+featured: false
 url_pdf: https://arxiv.org/pdf/2502.03333
 url_code: 'https://huggingface.co/KrauthammerLab/RadVLM'
 ---

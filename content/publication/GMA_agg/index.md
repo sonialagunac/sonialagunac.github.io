@@ -13,9 +13,9 @@ date: "2025-04-16"
 publication_types: ["paper-conference"] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "*In ICLR 2025 (Best Paper Award - Oral) Workshop AI for Children*"
+publication: "*In Proceedings of Machine Learning Research - Machine Learning for Healthcare 2025*, previous version in ICLR 2025 (Best Paper Award - Oral) Workshop AI for Children and Findings Machine Learning for Health (ML4H) Symposium colocated with NeurIPS 2024"
 publication_short: ""
 featured: true
 url_pdf: https://arxiv.org/pdf/2411.09821
-url_code: https://github.com/chopardda/GMA
+url_code: https://github.com/mdslabeth/GMA
 ---

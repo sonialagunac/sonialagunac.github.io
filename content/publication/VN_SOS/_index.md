@@ -16,6 +16,6 @@ publication_types: ["article-journal"] # ["article"], ["article-journal"] or ['p
 publication: "*In International Journal of Computer Assisted Radiology and Surgery and in 16th International Conference on Information Processing in Computer-Assisted Interventions*"
 publication_short: ""
 featured: false
-url_pdf: https://arxiv.org/pdf/2504.11307
+url_pdf: https://link.springer.com/article/10.1007/s11548-025-03402-4
 ---
 
