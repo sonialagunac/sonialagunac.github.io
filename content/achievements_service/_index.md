@@ -17,17 +17,15 @@ sections:
       title: Academic Service
       subtitle: 
       text: |
-        **Team Leader** CSNOW ETH:  Leading a team of students motivated to abolish gender-​based barriers and prejudices in computer science *2023-2025*. <br>
+        **Team Leader** [CSNOW ETH](https://csnow.inf.ethz.ch/en/):  Leading a team of students motivated to abolish gender-​based barriers and prejudices in computer science *2023-2025*. <br>
         **Invited Speaker:** Microsoft Cambridge Machine Learning Seminar Series *2025*, Doctoral Machine Learning Seminar ETH *2024*<br>
-        **Workshop Organizer:** GenAI meets XAI at XAI World Conference *2025*, Deep Generative Models for Health at NeurIPS *2023* <br>
+        **Workshop Organizer:** [GenAI meets XAI](https://xaiworldconference.com/2025/generative-ai-meets-explainable-ai/) at XAI World Conference *2025*, [Deep Generative Models for Health](https://sites.google.com/ethz.ch/dgm4h-neurips2023) at NeurIPS *2023* <br>
         **Reviewing:** NeurIPS, ICLR, ICML, MLHC, PC at IEE CBMS *2023-2025* <br>
-        **Torch Library Contributor:** <br>
-        **Summer School Attendee:** CGSI, MLSS South Africa <br>
-        **Teaching:** Advanced Machine Learning 2025, Signal & Systems 2019 <br>
-        **Student Supervisior:** 8 MSc Theses 2023-2025 <br>
+        **Teaching:** ETH Advanced Machine Learning *2025*, Georgia Tech Signal & Systems *2019* <br>
+        **Student Supervisior:** 8 ETH MSc Theses *2023-2025* <br>
         **Torch Library Contributor:** Contributor to the open-source [Pytorch Concepts library](https://github.com/pyc-team/pytorch_concepts) incorporating prior CBM work.<br>
-        **Summer School Attendee:** CGSI, MLSS South Africa <br>
-        **Mentoring & Student Outreach:** Alumni Amgen Scholars mentoring etc 2020-2025, ETH Project Access 2020-2022, Student Buddy UC3M: , UC3M Captain Basketball Team  <br>
+        **Mentoring & Student Outreach:** Alumni [Amgen Scholars](https://amgenscholars.com/) mentoring and supervision *2022-2025*, [Project Access](https://projectaccess.org/) mentor *2020-2022*, [Student Buddy](https://www.uc3m.es/orientacion/en/companeros-grados) UC3M Undergraduate Mentor *2017-2018*, UC3M Basketball Team Member & Captain *2016-2020*  <br>
+        **PhD Summer School Attendee:** CGSI at [UCLA](https://www.ucla.edu/) *2025*, [MLSS](http://mlss.cc/) South Africa *2023*<br>
         
 
   - block: markdown
