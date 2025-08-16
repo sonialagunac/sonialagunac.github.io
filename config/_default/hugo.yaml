@@ -6,7 +6,7 @@
 # Website name
 title: Sonia Laguna
 # Website URL
-baseURL: 'https://sonialagunac.com/'
+baseURL: "https://sonialagunac.github.io/"
 
 ############################
 ## LANGUAGE
