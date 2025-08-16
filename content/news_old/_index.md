@@ -1,6 +1,5 @@
 ---
-title: ""
-subtitle: "🗞️ All News"
+title: "🗞️ All News"
 date: 2022-10-24
 type: landing
 
