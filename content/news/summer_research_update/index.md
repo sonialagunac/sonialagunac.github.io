@@ -1,0 +1,6 @@
+---
+title: 📝 Summer research update! Four publications have been accepted and will be presented this summer at ICML, MLHC and IPCAI. 
+summary: Excited to be presenting recent work on interpretable reward modeling for LLMs in RLHF, self-supervised learning to leverage multiple modalities in medical domains, uncertainty estimation in variational networks, and on predictive models in healthcare. Checkout the preprints!
+date: 2025-06-18
+---
+Checkout the preprints on [𝐈𝐧𝐭𝐞𝐫𝐩𝐫𝐞𝐭𝐚𝐛𝐥𝐞 𝐑𝐞𝐰𝐚𝐫𝐝 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐀𝐜𝐭𝐢𝐯𝐞 𝐂𝐨𝐧𝐜𝐞𝐩𝐭 𝐁𝐨𝐭𝐭𝐥𝐞𝐧𝐞𝐜𝐤𝐬](https://arxiv.org/pdf/2507.04695) and [𝐋𝐞𝐯𝐞𝐫𝐚𝐠𝐢𝐧𝐠 𝐭𝐡𝐞 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 𝐌𝐞𝐝𝐢𝐜𝐚𝐥 𝐃𝐚𝐭𝐚 𝐟𝐨𝐫 𝐈𝐦𝐩𝐫𝐨𝐯𝐞𝐝 𝐑𝐞𝐩𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠](https://arxiv.org/pdf/2507.02987) presented at ICML, [Towards Scalable Newborn Screening: Automated General Movement Assessment in Uncontrolled Settings ](https://arxiv.org/pdf/2411.09821) presented at MLHC, and [𝐔𝐧𝐜𝐞𝐫𝐭𝐚𝐢𝐧𝐭𝐲 𝐞𝐬𝐭𝐢𝐦𝐚𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐭𝐫𝐮𝐬𝐭 𝐚𝐭𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐭𝐨 𝐬𝐩𝐞𝐞𝐝-𝐨𝐟-𝐬𝐨𝐮𝐧𝐝 𝐫𝐞𝐜𝐨𝐧𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 𝐯𝐚𝐫𝐢𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐧𝐞𝐭𝐰𝐨𝐫𝐤](https://link.springer.com/article/10.1007/s11548-025-03402-4) at IPCAI and CARS! 
