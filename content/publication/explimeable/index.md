@@ -13,7 +13,7 @@ date: "2023-12-24"
 publication_types: ["paper-conference"] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "*In NeurIPS 2023 XAI Workshop*"
+publication: "*In NeurIPS 2023 Workshop XAI*"
 publication_short: ""
 featured: false
 url_pdf: https://openreview.net/pdf?id=81FSrQxgEv
