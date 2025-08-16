@@ -17,7 +17,7 @@ sections:
       title: Academic Service
       subtitle: 
       text: |
-        **Team Leader** [CSNOW ETH](https://csnow.inf.ethz.ch/en/): 𝐥𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐜 Leading a team motivated to abolish gender-​based barriers and prejudices in CS *2023-2025*. <br>
+        **Team Leader** [CSNOW ETH](https://csnow.inf.ethz.ch/en/): 𝐥𝐢𝐧𝐠 Leading a team motivated to abolish gender-​based barriers and prejudices in CS *2023-2025*. <br>
         **Invited Speaker:** Microsoft Cambridge ML Seminar Series *2025*, CGSI Summer School UCLA *2025*, Doctoral ML Seminar ETH *2024*.<br>
         **Workshop Organizer:** [GenAI meets XAI](https://xaiworldconference.com/2025/generative-ai-meets-explainable-ai/) at XAI World Conference *2025*, [Deep Generative Models for Health](https://sites.google.com/ethz.ch/dgm4h-neurips2023) at NeurIPS *2023*. <br>
         **Reviewing:** NeurIPS, ICLR, ICML, MLHC, PC at IEEE CBMS *2023-2025*. <br>
