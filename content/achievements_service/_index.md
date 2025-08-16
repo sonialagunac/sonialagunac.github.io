@@ -3,7 +3,7 @@ title:
 type: landing
 
 design:
-  spacing: '3rem'
+  spacing: '4rem'
 
 sections:
   - block: markdown
