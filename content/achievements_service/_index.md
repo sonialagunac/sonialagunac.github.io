@@ -43,6 +43,7 @@ sections:
         - Excellence award UC3M
         - REsearch Collaboration Scholarship
         - Academic Excellence Scholarships
+        - BEST: Board of european ... 2 grants to study in Italy and Russia
         - Amgen Scholars Full grant
         - UC3M Mobility Grant
         - HIgh School Honours Mobility Grant 
