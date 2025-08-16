@@ -34,7 +34,7 @@ sections:
       title: Fellowships & Awards
       subtitle: 
       text: |
-        **Best Paper Award** Workshop [AI4CHL ICLR](https://iclr.cc/virtual/2025/workshop/23985) *2025*.<br>
+        **Best Paper Award** Workshop [AI4CHL ICLR](https://iclr.cc/virtual/2025/workshop/23985) *2025*. <br>
         **Selected G-research** Participant ML [Spring into Quant](https://www.gresearch.com/) Program *2025*.<br>
         **Nova 111 List** [Winner](https://www.novatalent.com/111-list/student-spain-2023) Top 10 brightest young Spanish talents in my discipline *2023*.<br>
         **SEMP Project Scholar** Funded research project at Harvard University *2021-2022*. <br>
@@ -42,7 +42,7 @@ sections:
         **Excellence** [award UC3M](https://www.uc3m.es/ss/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=Cache-Control&blobheadervalue1=inline%3B+filename%3D%22Llamamiento_Premios_de_Excelencia_2019.pdf%22&blobheadervalue2=private&blobkey=id&blobtable=MungoBlobs&blobwhere=1371564736129&ssbinary=true) 8 best records of the College of Engineering *2019*.<br>
         **Research Collaboration Scholarship** Spanish Ministry, 1 student per department. *2019*<br>
         **Academic Excellence** Scholarships of Madrid, every year of the BSc *2016-2020*. <br>
-        **[Board of European Students of Technology](https://www.best.eu.org/index.jsp)(BEST) Scholar** Two grants to study at University Naples Federico II, Italian Institute of Technology (Italy) *2019*, and at the Ural State University (Russia) *2020*. <br>
+        **[Board of European Students of Technology](https://www.best.eu.org/index.jsp)(BEST) Scholar** Two grants to study at University Naples Federico II - Italian Institute of Technology (Italy) *2019*, and at the Ural State University (Russia) *2020*. <br>
         **Amgen Scholar** Full grant as Fellowship [Scholar](https://amgenscholars.com/) carrying out research at ETH Zurich *2019*.<br>
         **UC3M Mobility Grant** Awarded to study one year at Georgia Institute of Technology, USA *2018-2019*. <br>
         **High School Honours Mobility** Grant to best UC3M university incoming students *2016*.<br>
