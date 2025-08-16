@@ -17,15 +17,15 @@ sections:
       title: Academic Service
       subtitle: 
       text: |
-        - **Team Leader** CSNOW *2023-2025* <br>
-        - **Invited Speaker**: Microsoft, Doctoral ML Seminar ETH <br>
-        **Workshop Organizer**: GenAI meets XAI, Neurips 2023 Deep Generative Models for Health <br>
-        **Reviewing**: Neurips, ICLR, ICML, MLHC, Program Chair IEE CBMS 2025 <br>
-        - Torch Library Contributor: 
-        - Summer School Attendee: CGSI, MLSS South Africa
-        - Teaching: Advanced Machine Learning 2025, Signal & Systems 2019
-        - Student Supervisior: 8 MSc Theses 2023-2025
-        - Mentoring & Student Outreach: Alumni Amgen Scholars mentoring etc 2020-2025, ETH Project Access 2020-2022, Student Buddy UC3M: , UC3M Captain Basketball Team 
+        **Team Leader** CSNOW *2023-2025* <br>
+        **Invited Speaker:** Microsoft, Doctoral ML Seminar ETH <br>
+        **Workshop Organizer:** GenAI meets XAI, Neurips 2023 Deep Generative Models for Health <br>
+        **Reviewing:** Neurips, ICLR, ICML, MLHC, Program Chair IEE CBMS 2025 <br>
+        **Torch Library Contributor:** <br>
+        **Summer School Attendee:** CGSI, MLSS South Africa <br>
+        **Teaching:** Advanced Machine Learning 2025, Signal & Systems 2019 <br>
+        **Student Supervisior:** 8 MSc Theses 2023-2025 <br>
+        **Mentoring & Student Outreach:** Alumni Amgen Scholars mentoring etc 2020-2025, ETH Project Access 2020-2022, Student Buddy UC3M: , UC3M Captain Basketball Team  <br>
         
 
   - block: markdown
@@ -34,16 +34,16 @@ sections:
       title: Fellowships & Awards
       subtitle: 
       text: |
-        - Best Paper Award Workshop AI4CHL ICLR 2025
-        - Selected G-research Participant
-        - Nova 111 List Winner
-        - SEMP Project Scholar
-        - Rafel del Pino and La Caixa Postgraduate Excellence Scholarships
-        - Excellence award UC3M
-        - REsearch Collaboration Scholarship
-        - Academic Excellence Scholarships
-        - BEST: Board of european ... 2 grants to study in Italy and Russia
-        - Amgen Scholars Full grant
-        - UC3M Mobility Grant
-        - HIgh School Honours Mobility Grant 
+        **Best Paper Award** Workshop AI4CHL ICLR 2025 <br>
+        **Selected G-research** Participant <br>
+        **Nova 111 List** Winner <br>
+        **SEMP Project Scholar** <br>
+        **Rafel del Pino and La Caixa Postgraduate Excellence Scholarships** <br>
+        **Excellence** award UC3M <br>
+        **Research Collaboration** Scholarship <br>
+        **Academic Excellence** Scholarships <br>
+        **BEST**: Board of european ... 2 grants to study in Italy and Russia <br>
+        **Amgen Scholars** Full grant <br>
+        **UC3M Mobility** Grant <br>
+        High School **Honours Mobility** Grant <br>
 ---
