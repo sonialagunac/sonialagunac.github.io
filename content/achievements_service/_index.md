@@ -23,7 +23,7 @@ sections:
         **Reviewing:** NeurIPS, ICLR, ICML, MLHC, IEEE CBMS *2023-2025*.<br>
         **Teaching:** ETH Advanced Machine Learning *2025*, Georgia Tech Signals & Systems *2019*.<br>
         **Student Supervision:** 8 ETH MSc Theses *2023-2025*. <br>
-        **Torch Library Contributor:** Contributor to the open-source [Pytorch Concepts library](https://github.com/pyc-team/pytorch_concepts) incorporating prior CBM work.<br>
+        **Torch Library Contributor:** Contributor to the open-source [Pytorch Concepts library](https://github.com/pyc-team/pytorch_concepts) incorporating prior CBM work *2025*.<br>
         **Mentoring & Student Outreach:** Alumni [Amgen Scholars](https://amgenscholars.com/) mentoring and supervision *2022-2025*, [Project Access](https://projectaccess.org/) mentor *2020-2023*, [Student Buddy](https://www.uc3m.es/orientacion/en/companeros-grados) UC3M Undergraduate Mentor *2017-2018*, UC3M Basketball Team Member & Captain *2016-2020*.<br>
         **PhD Summer School Attendee:** CGSI at [UCLA](https://www.ucla.edu/) *2025*, [MLSS](http://mlss.cc/) South Africa *2023*.<br>
 
