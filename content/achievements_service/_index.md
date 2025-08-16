@@ -17,14 +17,16 @@ sections:
       title: Academic Service
       subtitle: 
       text: |
-        **Team Leader** CSNOW *2023-2025* <br>
-        **Invited Speaker:** Microsoft, Doctoral ML Seminar ETH <br>
-        **Workshop Organizer:** GenAI meets XAI, Neurips 2023 Deep Generative Models for Health <br>
-        **Reviewing:** Neurips, ICLR, ICML, MLHC, Program Chair IEE CBMS 2025 <br>
+        **Team Leader** CSNOW ETH:  Leading a team of students motivated to abolish gender-​based barriers and prejudices in computer science *2023-2025*. <br>
+        **Invited Speaker:** Microsoft Cambridge Machine Learning Seminar Series *2025*, Doctoral Machine Learning Seminar ETH *2024*<br>
+        **Workshop Organizer:** GenAI meets XAI at XAI World Conference *2025*, Deep Generative Models for Health at NeurIPS *2023* <br>
+        **Reviewing:** NeurIPS, ICLR, ICML, MLHC, PC at IEE CBMS *2023-2025* <br>
         **Torch Library Contributor:** <br>
         **Summer School Attendee:** CGSI, MLSS South Africa <br>
         **Teaching:** Advanced Machine Learning 2025, Signal & Systems 2019 <br>
         **Student Supervisior:** 8 MSc Theses 2023-2025 <br>
+        **Torch Library Contributor:** Contributor to the open-source (Pytorch Concepts library)[https://github.com/pyc-team/pytorch_concepts] incorporating prior CBM work.<br>
+        **Summer School Attendee:** CGSI, MLSS South Africa <br>
         **Mentoring & Student Outreach:** Alumni Amgen Scholars mentoring etc 2020-2025, ETH Project Access 2020-2022, Student Buddy UC3M: , UC3M Captain Basketball Team  <br>
         
 
