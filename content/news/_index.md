@@ -1,6 +1,5 @@
 ---
-title: ""
-subtitle: 🗞️ All News
+title: 🗞️ All News
 id: news
 view: article-grid
 ---
