@@ -12,7 +12,7 @@ sections:
       text: I see research as a collaborative effort, and I find the most excitement in working with others and contributing in different ways to the community. In this section, I share my experiences in service, mentoring, and outreach, as well as the awards and achievements I have been fortunate to receive along the way.
   
   - block: markdown
-    id: teaching
+    id: service
     content:
       title: Academic Service
       subtitle: 
@@ -30,9 +30,9 @@ sections:
         
 
   - block: markdown
-    id: Fellowships & Awards
+    id: awards
     content:
-      title: Fellowships
+      title: Fellowships & Awards
       subtitle: 
       text: |
         - Best Paper Award Workshop AI4CHL ICLR 2025
