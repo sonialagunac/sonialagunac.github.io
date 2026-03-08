@@ -1,5 +1,5 @@
 ---
-title: 🗣️ Joined the organizing team of the ELLISxUniReps Speaker Series
+title: 🗣️ Joined the organizing team of the ELLIS x UniReps Speaker Series
 summary: Monthly event exploring how and why neural models develop similar internal representations, and what this means for learning, alignment, and reuse.
 date: 2026-03-06
 ---
