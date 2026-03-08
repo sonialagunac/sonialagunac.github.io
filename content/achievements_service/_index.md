@@ -17,7 +17,7 @@ sections:
       title: Academic Service
       subtitle: 
       text: |
-        **Invited Speaker:** Interpretable Deep Learning Seminar Series *2026*, University of Zaragoza Seminar Series AI *2026*, ETH-UN Forum *2025*, Microsoft Cambridge ML Seminar Series *2025*, CGSI Summer School UCLA *2025*, Doctoral ML Seminar ETH *2024*.<br>
+        **Invited Speaker:** Interpretable Deep Learning Reading Group *2026*, University of Zaragoza Seminar Series AI *2026*, ETH-UN Forum *2025*, Microsoft Cambridge ML Seminar Series *2025*, CGSI Summer School UCLA *2025*, Doctoral ML Seminar ETH *2024*.<br>
         **Team Leader** [CSNOW ETH](https://csnow.inf.ethz.ch/en/): Leading a team motivated to abolish gender-​based barriers and prejudices in CS *2023-2025*.<br>
         **Speaker Series Organizer:** [ELLISxUniReps](https://unireps.org/speaker-series/), monthly series with talks about neural models and learning representations *2026*. 
         **Workshop Organizer:** [GenAI meets XAI](https://xaiworldconference.com/2025/generative-ai-meets-explainable-ai/) at XAI World Conference *2025*, [Deep Generative Models for Health](https://sites.google.com/ethz.ch/dgm4h-neurips2023) at NeurIPS *2023*. <br>
