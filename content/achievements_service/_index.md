@@ -17,14 +17,15 @@ sections:
       title: Academic Service
       subtitle: 
       text: |
+        **Invited Speaker:** Interpretable Deep Learning Seminar Series *2026*, University of Zaragoza Seminar Series AI *2026*, ETH-UN Forum *2025*, Microsoft Cambridge ML Seminar Series *2025*, CGSI Summer School UCLA *2025*, Doctoral ML Seminar ETH *2024*.<br>
         **Team Leader** [CSNOW ETH](https://csnow.inf.ethz.ch/en/): Leading a team motivated to abolish gender-​based barriers and prejudices in CS *2023-2025*.<br>
-        **Invited Speaker:** ETH-UN Forum *2025*, Microsoft Cambridge ML Seminar Series *2025*, CGSI Summer School UCLA *2025*, Doctoral ML Seminar ETH *2024*.<br>
+        **Speaker Series Organizer:** [ELLISxUniReps](https://unireps.org/speaker-series/), monthly series with talks about neural models and learning representations *2026*. 
         **Workshop Organizer:** [GenAI meets XAI](https://xaiworldconference.com/2025/generative-ai-meets-explainable-ai/) at XAI World Conference *2025*, [Deep Generative Models for Health](https://sites.google.com/ethz.ch/dgm4h-neurips2023) at NeurIPS *2023*. <br>
-        **Reviewing:** NeurIPS, ICLR, ICML, MLHC, IEEE CBMS *2023-2025*.<br>
-        **Teaching:** ETH Advanced Machine Learning *2025*, ETH Data Science Lab *2025*, Georgia Tech Signals & Systems *2019*.<br>
-        **Student Supervision:** 10 ETH MSc Theses *2023-2025*. <br>
+        **Reviewing:** NeurIPS, ICLR, ICML, MLHC, IEEE CBMS *2023-2026*.<br>
+        **Teaching:** ETH Advanced Machine Learning *2025*, ETH Data Science Lab *2025*-*2026*, Georgia Tech Signals & Systems *2019*.<br>
+        **Student Supervision:** 13 ETH MSc Theses & Projects *2023-2026*. <br>
         **Torch Library Contributor:** Contributor to the open-source [Pytorch Concepts library](https://github.com/pyc-team/pytorch_concepts) incorporating prior CBM work *2025*.<br>
-        **Mentoring & Student Outreach:** Alumni [Amgen Scholars](https://amgenscholars.com/) mentoring and supervision *2022-2025*, [Project Access](https://projectaccess.org/) mentor *2020-2023*, [Student Buddy](https://www.uc3m.es/orientacion/en/companeros-grados) UC3M Undergraduate Mentor *2017-2018*, UC3M Basketball Team Member & Captain *2016-2020*.<br>
+        **Mentoring & Student Outreach:** Alumni [Amgen Scholars](https://amgenscholars.com/) mentoring and supervision *2022-2026*, [Project Access](https://projectaccess.org/) mentor *2020-2023*, [Student Buddy](https://www.uc3m.es/orientacion/en/companeros-grados) UC3M Undergraduate Mentor *2017-2018*, UC3M Basketball Team Member & Captain *2016-2020*.<br>
         **PhD Summer School Attendee:** CGSI at [UCLA](https://www.ucla.edu/) *2025*, [MLSS](http://mlss.cc/) South Africa *2023*.<br>
 
 
