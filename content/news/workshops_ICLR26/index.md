@@ -1,7 +1,7 @@
 ---
 title: 📝 Attending ICLR 2026 in Brazil, our five workshop papers got accepted with an oral contribution!
 summary: Excited to be presenting part of our latest work on machine unlearning, interpretability, and representation learning. Checkout the preprints!
-date: 2026-03-08
+date: 2026-03-07
 ---
 I will be attending **ICLR 2026 in Brazil** in April, where five workshop papers were accepted, including one selected for an **oral presentation**. 
 
