@@ -15,6 +15,6 @@ publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['
 # Publication name and optional abbreviated publication name.
 publication: "*In ICLR 2025 Workshop Synth Data*"
 publication_short: ""
-featured: true
+featured: false
 url_pdf: https://arxiv.org/pdf/2504.09328
 ---

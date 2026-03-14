@@ -11,6 +11,6 @@ publication_types: ["paper-conference"] # ["article"], ["article-journal"] or ['
 # Publication name and optional abbreviated publication name.
 publication: "*In ICLR 2026 Workshop AIWILD*"
 publication_short: ""
-featured: false
+featured: true
 url_pdf: https://openreview.net/pdf?id=zADVEatKvi
 ---

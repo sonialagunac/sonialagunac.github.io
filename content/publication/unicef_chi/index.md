@@ -12,7 +12,7 @@ date: "2026-02-04"
 publication_types: ["paper-conference"] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "*In the 2026 CHI Conference on Human Factors in Computing Systems *"
+publication: "*In the CHI 2026 Conference on Human Factors in Computing Systems*"
 publication_short: ""
 featured: false
 # url_pdf: https://openreview.net/pdf?id=TMJPa9qWnV

@@ -15,7 +15,7 @@ publication_types: ["paper-conference"] # ["article"], ["article-journal"] or ['
 # Publication name and optional abbreviated publication name.
 publication: "*In Proceedings of Machine Learning Research - Machine Learning for Healthcare 2025*, previous version in ICLR 2025 (Best Paper Award - Oral) Workshop AI4CHL and Findings ML4H Symposium colocated with NeurIPS 2024"
 publication_short: ""
-featured: true
+featured: false
 url_pdf: https://arxiv.org/pdf/2411.09821
 url_code: https://github.com/mdslabeth/GMA
 ---
