@@ -13,7 +13,7 @@ publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['
 # Publication name and optional abbreviated publication name.
 publication: "*In ICML 2025 Workshop PRAL*"
 publication_short: ""
-featured: true
+featured: false
 url_pdf: https://arxiv.org/pdf/2507.04695
 url_code: https://github.com/sonialagunac/cb-rm-workshop
 ---

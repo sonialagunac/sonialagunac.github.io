@@ -13,4 +13,5 @@ publication: "*In ICLR 2026 Workshop AIWILD*"
 publication_short: ""
 featured: true
 url_pdf: https://openreview.net/pdf?id=zADVEatKvi
+url_code: https://github.com/jmirlach/ReGUn
 ---
