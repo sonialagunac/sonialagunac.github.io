@@ -12,6 +12,6 @@ publication_types: ["paper-conference"] # ["article"], ["article-journal"] or ['
 publication: "*In ICLR 2026 Workshop AIWILD*"
 publication_short: ""
 featured: true
-url_pdf: https://openreview.net/pdf?id=zADVEatKvi
+url_pdf: https://arxiv.org/pdf/2603.11210
 url_code: https://github.com/jmirlach/ReGUn
 ---
