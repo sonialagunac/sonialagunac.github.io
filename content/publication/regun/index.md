@@ -8,7 +8,7 @@ authors:
 date: "2026-03-06"
 publication_types: ["paper-conference"] # ["article"], ["article-journal"] or ['paper-conference']
 
-# Publication name and optional abbreviated publication name.
+# Publication name and optional abbreviated publication name
 publication: "*In ICLR 2026 Workshop AIWILD*"
 publication_short: ""
 featured: true

@@ -13,7 +13,7 @@ authors:
 date: "2026-03-05"
 publication_types: ["paper-conference"] # ["article"], ["article-journal"] or ['paper-conference']
 
-# Publication name and optional abbreviated publication name.
+# Publication name and optional abbreviated publication name
 publication: "*In ICLR 2026 Workshop FM4Science*"
 publication_short: ""
 featured: false
