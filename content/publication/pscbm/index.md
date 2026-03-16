@@ -14,4 +14,5 @@ publication: "*In ICLR 2026 Workshop Trustworthy AI*"
 publication_short: ""
 featured: false
 url_pdf: https://arxiv.org/pdf/2510.08219?
+url_code: https://github.com/wiktorhof/PSCBM
 ---
