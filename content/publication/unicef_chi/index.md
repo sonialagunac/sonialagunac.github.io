@@ -16,5 +16,5 @@ publication: "*In the CHI 2026 Conference on Human Factors in Computing Systems*
 publication_short: ""
 featured: false
 # url_pdf: https://openreview.net/pdf?id=TMJPa9qWnV
-url_code: https://github.com/easyread-dsl/easyread_project.git
+url_code: https://github.com/easyread-dsl/easyread_project
 ---
