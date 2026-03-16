@@ -44,11 +44,10 @@ profiles:
     url: https://scholar.google.com/citations?user=PljVnCQAAAAJ&hl=es
 
 interests:
-  - Interpretability
-  - Generative Models
-  - Foundation Models
   - Representation Learning
   - Machine Unlearning
+  - Generative Models
+  - Interpretability
 
 # education:
 #   - area: PhD Machine Learning
