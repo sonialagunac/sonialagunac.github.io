@@ -14,5 +14,5 @@ publication_types: ["paper-conference"] # ["article"], ["article-journal"] or ['
 publication: "*In ICLR 2026 Workshop TTU (Oral)*"
 publication_short: ""
 featured: true
-url_pdf: https://openreview.net/pdf?id=gGH3Xp1lHR
+url_pdf: https://arxiv.org/pdf/2603.15033
 ---
