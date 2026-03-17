@@ -15,6 +15,6 @@ publication_types: ["paper-conference"] # ["article"], ["article-journal"] or ['
 publication: "*In the CHI 2026 Conference on Human Factors in Computing Systems*"
 publication_short: ""
 featured: false
-# url_pdf: https://openreview.net/pdf?id=TMJPa9qWnV
+url_pdf: https://arxiv.org/pdf/2603.13695
 url_code: https://github.com/easyread-dsl/easyread_project
 ---
