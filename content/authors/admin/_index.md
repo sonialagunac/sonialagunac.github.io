@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Intern @Apple MLR<br>PhD in Machine Learning @ETH Zurich
+role: Research @Apple MLR<br>PhD in Machine Learning @ETH Zurich
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
