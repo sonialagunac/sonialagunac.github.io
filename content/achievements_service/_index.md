@@ -35,6 +35,7 @@ sections:
       title: Fellowships & Awards
       subtitle: 
       text: |
+        **Reviewer Award ICML** *2026*. <br>
         **Best Paper Award** Workshop [AI4CHL ICLR](https://iclr.cc/virtual/2025/workshop/23985) *2025*. <br>
         **Selected G-research** Participant ML [Spring into Quant](https://www.gresearch.com/) Program *2025*.<br>
         **Nova 111 List** [Winner](https://www.novatalent.com/111-list/student-spain-2023) Top 10 brightest young Spanish talents in my discipline *2023*.<br>
