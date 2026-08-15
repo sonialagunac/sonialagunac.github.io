@@ -44,10 +44,10 @@ profiles:
     url: https://scholar.google.com/citations?user=PljVnCQAAAAJ&hl=es
 
 interests:
-  - Representation Learning
+  - Large Language Models
+  - Model Adaptation
   - Machine Unlearning
-  - Generative Models
-  - Interpretability
+
 
 # education:
 #   - area: PhD Machine Learning
