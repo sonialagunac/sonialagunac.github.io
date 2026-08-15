@@ -48,7 +48,8 @@ interests:
   - Model Adaptation
   - Machine Unlearning
 
-# education:
+
+# education: 
 #   - area: PhD Machine Learning
 #     institution: ETH Zurich
 #     date_start: 2023-01-09
