@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Sonia Laguna
+title: Sonia Laguna*
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Sonia
-last_name: Laguna
+last_name: Laguna*
 
 # Status emoji
 # status:
