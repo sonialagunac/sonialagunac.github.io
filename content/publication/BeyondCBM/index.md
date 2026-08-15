@@ -6,7 +6,7 @@ authors:
 - Moritz Vandenhirtz
 - Julia E. Vogt
 date: '2024-12-10'
-publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['paper-conference']
+publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['paper-conference'] 
 
 # Publication name and optional abbreviated publication name.
 publication: "*In NeurIPS 2024*"
