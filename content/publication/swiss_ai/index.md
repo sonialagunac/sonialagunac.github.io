@@ -1,9 +1,9 @@
 ---
 title: "Leveraging the Structure of Medical Data for Improved Representation Learning"
 authors:
-- Andrea Agostini*
+- "Andrea Agostini*"
 - admin sharedauth
-- Alain Ryser*
+- "Alain Ryser*"
 - Samuel Ruiperez-Campillo*
 - Moritz Vandenhirtz
 - Nicolas Deperrois
