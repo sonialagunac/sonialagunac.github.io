@@ -19,7 +19,7 @@ publication_types: ["article-journal"] # ["article"], ["article-journal"] or ['p
 # Publication name and optional abbreviated publication name.
 publication: "*In Transactions in Machine Learning Research (TMLR) 2026*"
 publication_short: ""
-featured: true
+featured: false
 url_pdf: https://arxiv.org/pdf/2511.22294
 url_code: https://github.com/agostini335/MVMAE
 ---
