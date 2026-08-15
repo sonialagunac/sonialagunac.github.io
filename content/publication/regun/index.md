@@ -1,7 +1,7 @@
 ---
 title: "Reference-Guided Machine Unlearning"
 authors:
-- Jonas Mirlach
+- "Jonas Mirlach*"
 - admin sharedauth
 - Julia E Vogt
 
