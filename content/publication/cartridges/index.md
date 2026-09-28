@@ -1,19 +1,18 @@
 ---
-title: "DynaMiCS: Fine-tuning LLMs with Performance Constraints using Dynamic Mixtures"
+title: "Cartridges++: KV Cache Compression without Off-Context Derailment"
 authors:
-- Eleonora Gualdoni
 - admin
-- Louis Béthune
 - Joao Monteiro
-- Pierre Ablin
 - Marco Cuturi
+- Pierre Ablin
+- Eleonora Gualdoni
 
-date: "2026-08-20"
+date: "2026-09-25"
 publication_types: ["paper-conference"] # ["article"], ["article-journal"] or ['paper-conference']
 
 # Publication name and optional abbreviated publication name
 publication: "Preprint - Arxiv"
 publication_short: ""
 featured: true
-url_pdf: https://arxiv.org/pdf/2605.10770
+# url_pdf: https://arxiv.org/pdf/2605.10770
 ---

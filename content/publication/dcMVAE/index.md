@@ -12,7 +12,7 @@ publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['
 # Publication name and optional abbreviated publication name.
 publication: "*In ICLR 2024*"
 publication_short: ""
-featured: true
+featured: false
 url_pdf: https://openreview.net/pdf?id=k5THrhXDV3
 url_code: https://github.com/epalu/CMVAE
 ---

@@ -11,7 +11,7 @@ publication_types: ['paper-conference'] # ["article"], ["article-journal"] or ['
 # Publication name and optional abbreviated publication name.
 publication: "*In NeurIPS 2024*"
 publication_short: ""
-featured: true
+featured: false
 url_pdf: https://proceedings.neurips.cc/paper_files/paper/2024/file/9a439efaa34fe37177eba00737624824-Paper-Conference.pdf
 url_code: https://github.com/sonialagunac/Beyond-CBM
 ---
