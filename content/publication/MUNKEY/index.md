@@ -1,5 +1,5 @@
 ---
-title: "Rethinking Machine Unlearning: Models Designed to Forget via Key Deletion"
+title: "Models Designed to Forget: Machine Unlearning via Key Deletion"
 authors:
 - admin
 - Jorge da Silva Gonçalves

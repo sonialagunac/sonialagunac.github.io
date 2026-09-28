@@ -4,7 +4,7 @@ authors:
 - Samuel Ruiperez-Campillo*
 - Michele Angelo Copetti*
 - Jorge da Silva Gonçalves*
-- Sonia Laguna
+- admin
 - Thomas Hofmann
 - Julia E. Vogt
 
