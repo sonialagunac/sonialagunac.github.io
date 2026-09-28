@@ -1,6 +1,6 @@
 ---
 title: 🏛️ Started my PhD in Machine Learning at ETH Zurich.
-summary: So excited! Supervised by Prof. Julia Vogt (ETH) and Prof. Bernahrd Schölkopf (MPI). 
+summary: So excited! Supervised by Prof. Julia Vogt. 
 date: 2023-01-01
 ---
 
