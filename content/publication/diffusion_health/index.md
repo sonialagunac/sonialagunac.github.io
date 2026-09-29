@@ -15,5 +15,5 @@ publication_types: ["paper-conference"] # ["article"], ["article-journal"] or ['
 publication: "Preprint - Arxiv"
 publication_short: ""
 featured: false
-# url_pdf: https://arxiv.org/pdf/2605.10770
+url_pdf: https://arxiv.org/pdf/2609.34965
 ---
