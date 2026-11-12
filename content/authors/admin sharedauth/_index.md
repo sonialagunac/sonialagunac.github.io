@@ -20,13 +20,13 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research @Apple MLR<br>PhD in Machine Learning @ETH Zurich
+role: PhD in Machine Learning @ETH Zurich
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   # - name: ETH Zurich
   #   url: https://ml.inf.ethz.ch
-  - name: Previously @Cambridge @Google @Harvard
+  - name: Previously @Apple @Cambridge @Google @Harvard
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -175,9 +175,9 @@ awards:
 
 ## About Me
 
-Hi there!👋 I am currently a research intern at [Apple MLR](https://machinelearning.apple.com/) working with [Marco Cuturi](https://marcocuturi.net/) on LLM research, and a PhD student in Machine Learning at [ETH Zurich](https://ethz.ch/en.html), supervised by [Prof. Julia Vogt](https://mds.inf.ethz.ch/). Throughout my PhD, my research has focused on the intersection of **machine unlearning, large language models, model adaptation, and interpretability**. I am particularly interested in how models acquire, use, and forget information, with a current focus on long-context LLMs and model adaptation. Beyond research, I am actively involved in the ML [community through talks, organizing, mentoring, and academic service](/achievements_service/).
+Hi there!👋 I am a PhD student in Machine Learning at [ETH Zurich](https://ethz.ch/en.html), supervised by [Prof. Julia Vogt](https://mds.inf.ethz.ch/). Throughout my PhD, my research has focused on the intersection of **machine unlearning, large language models, model adaptation, and interpretability**. I am particularly interested in how models acquire, use, and forget information, with a current focus on long-context LLMs and model adaptation. Beyond research, I am actively involved in the ML [community through talks, organizing, mentoring, and academic service](/achievements_service/). 
 
-During my PhD, I have been a visiting student at [Cambridge University](https://www.cam.ac.uk/) with [Prof. Mihaela Van der Shaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/), working on alignment and interpretability of LLMs. Additionally, I have been a Research Intern and a Student Researcher at **Google**, developing 3D diffusion-based generative models in the [AR&VR team](https://arvr.google.com/), and the team co-leader of [CSNOW](https://csnow.inf.ethz.ch/), Computer Science Network of Women at ETH. 
+During my PhD, I have been a research intern at [Apple MLR](https://machinelearning.apple.com/) working with [Marco Cuturi](https://marcocuturi.net/) on LLM research, and a visiting student at [Cambridge University](https://www.cam.ac.uk/) with [Prof. Mihaela Van der Shaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/) working on alignment and interpretability of LLMs. Additionally, I have been a Research Intern and a Student Researcher at **Google**, developing 3D diffusion-based generative models in the [AR&VR team](https://arvr.google.com/), and the team co-leader of [CSNOW](https://csnow.inf.ethz.ch/), Computer Science Network of Women at ETH. 
 
 Prior to my doctoral studies, I obtained a MSc in the Department of Information Technology and Electrical Engineering at [ETH Zurich](https://ethz.ch/en.html), and spent a semester at [Harvard University](https://www.harvard.edu/) working on 3D generative models for super-resolution of MR images. I was lucky to be supported by two Spanish Excellence Fellowships, [La Caixa](https://becarios.fundacionlacaixa.org/en/sonia-laguna-cillero-B005184) and [Rafel del Pino](https://bfrdelpino.com/). Before that, I completed my BSc in Biomedical Engineering at [Universidad Carlos III de Madrid](https://www.uc3m.es/Home), spent one year at [Georgia Institute of Technology](https://www.gatech.edu/), and carried out an internship at [ETH Zurich](https://ethz.ch/en.html) as an [Amgen Scholar](https://amgenscholars.com/). 
 
